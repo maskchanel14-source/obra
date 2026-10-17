@@ -2,16 +2,25 @@
   "target_pages": 100,
   "generated_pages": 100,
   "validated_pages": 100,
-  "pushed_pages": 0,
-  "published_pages": 0,
-  "phase": "local_build_verified",
+  "pushed_pages": 100,
+  "published_pages": 100,
+  "phase": "production_verified",
   "site_url": "https://balcao-guias.vercel.app",
   "branch": "arena/bf988cfb-obra",
+  "first_verified_commit": "dd271c85fea0256ffa999e229f99ea684fbe562c",
+  "first_verified_deployment": "dpl_CHcwxAX7cxTY5bFs5WFky6KK1Kjb",
   "evidence": [
-    "npm run build generated 100 HTML documents",
+    "npm run build generated 100 static HTML documents",
     "npm test passed 6 of 6 site checks",
-    "All 100 generated HTML pages passed html-validate",
-    "Local HTTP checks returned 200 for all 100 pages, sitemap, CSS and social image"
+    "All 100 generated HTML documents passed html-validate",
+    "Local HTTP checks returned 200 for all 100 pages, sitemap, CSS and social image",
+    "The first Vercel production deployment reached READY with the production alias assigned",
+    "Vercel build events reported: Built 100 static HTML pages for https://balcao-guias.vercel.app",
+    "The public home page, two different guide pages and the XML sitemap were retrieved successfully"
   ],
-  "deployment_note": "The Vercel project exists, but its creation response reported gitProviderOptions.createDeployments as disabled. No production deployment has yet been verified."
+  "known_limitations": [
+    "Automatic Git deployments were disabled in the Vercel project creation response. This release was deployed explicitly from the session branch; future pushes are not yet guaranteed to auto-deploy.",
+    "Vercel's deployment file-tree endpoint returned 404 File tree not found. Build events and public URLs were used to verify the release instead.",
+    "Keyword demand, competition and affiliate-program approval have not been measured or claimed."
+  ]
 }

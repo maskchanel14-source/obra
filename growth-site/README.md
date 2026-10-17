@@ -17,7 +17,7 @@ The source of truth is `content.mjs` + `data/sectors/` + `data/workflows.mjs` + 
 
 Project: `balcao-guias` (team: small signal studio). Git source: `maskchanel14-source/obra`. Project root: `growth-site`; build: `npm run build`; output: `dist`; configured domain: `https://balcao-guias.vercel.app`. `growth-site/vercel.json` mirrors the static build settings. Canonicals default to that domain; `SITE_URL` can override it only with an HTTPS origin.
 
-**Deployment truth:** a Git link alone does not prove auto-deploy is enabled. The project-creation response reported `gitProviderOptions.createDeployments: disabled`. Check the Vercel project settings before assuming future pushes deploy automatically. A verified deployment from the current branch can be created explicitly; `progress_log.json` separates generated, validated, pushed and published counts. The repository's session branch is fixed; do not push to `main` just to make production branch deployment happen.
+**Deployment truth:** the first production deployment from the session branch reached `READY` and the public site was retrieved successfully. The project-creation response reported `gitProviderOptions.createDeployments: disabled`, and the first push did not trigger a deployment. This release was therefore deployed explicitly. Enable automatic Git deployments in the Vercel project settings before expecting future pushes to deploy by themselves. `progress_log.json` records the verified counts and first deployment ID. The repository's session branch is fixed; do not push to `main` just to make production branch deployment happen.
 
 ## Affiliate links, without fake referrals
 

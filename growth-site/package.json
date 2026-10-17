@@ -9,8 +9,5 @@
     "test": "node --test tests/*.test.mjs",
     "keywords": "node scripts/export-keywords.mjs",
     "check": "npm run build && npm test"
-  },
-  "engines": {
-    "node": ">=20"
   }
 }
