@@ -1,0 +1,17 @@
+{
+  "target_pages": 100,
+  "generated_pages": 100,
+  "validated_pages": 100,
+  "pushed_pages": 0,
+  "published_pages": 0,
+  "phase": "local_build_verified",
+  "site_url": "https://balcao-guias.vercel.app",
+  "branch": "arena/bf988cfb-obra",
+  "evidence": [
+    "npm run build generated 100 HTML documents",
+    "npm test passed 6 of 6 site checks",
+    "All 100 generated HTML pages passed html-validate",
+    "Local HTTP checks returned 200 for all 100 pages, sitemap, CSS and social image"
+  ],
+  "deployment_note": "The Vercel project exists, but its creation response reported gitProviderOptions.createDeployments as disabled. No production deployment has yet been verified."
+}

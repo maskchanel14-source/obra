@@ -1,0 +1,702 @@
+[
+  {
+    "keyword": "como organizar o atendimento no WhatsApp Business para pequenos negócios",
+    "url": "/",
+    "segment": "Pequenos negócios",
+    "job": "Guia essencial",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para salão de beleza",
+    "url": "/guias/primeiro-contato-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para salão de beleza",
+    "url": "/guias/agendamento-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para salão de beleza",
+    "url": "/guias/orcamento-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para salão de beleza",
+    "url": "/guias/catalogo-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para salão de beleza",
+    "url": "/guias/lembrete-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para salão de beleza",
+    "url": "/guias/pos-venda-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para salão de beleza",
+    "url": "/guias/retomada-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para salão de beleza",
+    "url": "/guias/pix-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para salão de beleza",
+    "url": "/guias/encaminhamento-salao-de-beleza/",
+    "segment": "Salão de beleza",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para barbearia",
+    "url": "/guias/primeiro-contato-barbearia/",
+    "segment": "Barbearia",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para barbearia",
+    "url": "/guias/agendamento-barbearia/",
+    "segment": "Barbearia",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para barbearia",
+    "url": "/guias/orcamento-barbearia/",
+    "segment": "Barbearia",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para barbearia",
+    "url": "/guias/catalogo-barbearia/",
+    "segment": "Barbearia",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para barbearia",
+    "url": "/guias/lembrete-barbearia/",
+    "segment": "Barbearia",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para barbearia",
+    "url": "/guias/pos-venda-barbearia/",
+    "segment": "Barbearia",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para barbearia",
+    "url": "/guias/retomada-barbearia/",
+    "segment": "Barbearia",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para barbearia",
+    "url": "/guias/pix-barbearia/",
+    "segment": "Barbearia",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para barbearia",
+    "url": "/guias/encaminhamento-barbearia/",
+    "segment": "Barbearia",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para pet shop",
+    "url": "/guias/primeiro-contato-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para pet shop",
+    "url": "/guias/agendamento-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para pet shop",
+    "url": "/guias/orcamento-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para pet shop",
+    "url": "/guias/catalogo-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para pet shop",
+    "url": "/guias/lembrete-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para pet shop",
+    "url": "/guias/pos-venda-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para pet shop",
+    "url": "/guias/retomada-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para pet shop",
+    "url": "/guias/pix-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para pet shop",
+    "url": "/guias/encaminhamento-pet-shop/",
+    "segment": "Pet shop",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para oficina mecânica",
+    "url": "/guias/primeiro-contato-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para oficina mecânica",
+    "url": "/guias/agendamento-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para oficina mecânica",
+    "url": "/guias/orcamento-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para oficina mecânica",
+    "url": "/guias/catalogo-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para oficina mecânica",
+    "url": "/guias/lembrete-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para oficina mecânica",
+    "url": "/guias/pos-venda-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para oficina mecânica",
+    "url": "/guias/retomada-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para oficina mecânica",
+    "url": "/guias/pix-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para oficina mecânica",
+    "url": "/guias/encaminhamento-oficina-mecanica/",
+    "segment": "Oficina mecânica",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para restaurante",
+    "url": "/guias/primeiro-contato-restaurante/",
+    "segment": "Restaurante",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para restaurante",
+    "url": "/guias/agendamento-restaurante/",
+    "segment": "Restaurante",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para restaurante",
+    "url": "/guias/orcamento-restaurante/",
+    "segment": "Restaurante",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para restaurante",
+    "url": "/guias/catalogo-restaurante/",
+    "segment": "Restaurante",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para restaurante",
+    "url": "/guias/lembrete-restaurante/",
+    "segment": "Restaurante",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para restaurante",
+    "url": "/guias/pos-venda-restaurante/",
+    "segment": "Restaurante",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para restaurante",
+    "url": "/guias/retomada-restaurante/",
+    "segment": "Restaurante",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para restaurante",
+    "url": "/guias/pix-restaurante/",
+    "segment": "Restaurante",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para restaurante",
+    "url": "/guias/encaminhamento-restaurante/",
+    "segment": "Restaurante",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para loja de roupas",
+    "url": "/guias/primeiro-contato-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para loja de roupas",
+    "url": "/guias/agendamento-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para loja de roupas",
+    "url": "/guias/orcamento-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para loja de roupas",
+    "url": "/guias/catalogo-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para loja de roupas",
+    "url": "/guias/lembrete-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para loja de roupas",
+    "url": "/guias/pos-venda-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para loja de roupas",
+    "url": "/guias/retomada-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para loja de roupas",
+    "url": "/guias/pix-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para loja de roupas",
+    "url": "/guias/encaminhamento-loja-de-roupas/",
+    "segment": "Loja de roupas",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para confeitaria",
+    "url": "/guias/primeiro-contato-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para confeitaria",
+    "url": "/guias/agendamento-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para confeitaria",
+    "url": "/guias/orcamento-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para confeitaria",
+    "url": "/guias/catalogo-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para confeitaria",
+    "url": "/guias/lembrete-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para confeitaria",
+    "url": "/guias/pos-venda-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para confeitaria",
+    "url": "/guias/retomada-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para confeitaria",
+    "url": "/guias/pix-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para confeitaria",
+    "url": "/guias/encaminhamento-confeitaria/",
+    "segment": "Confeitaria",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para floricultura",
+    "url": "/guias/primeiro-contato-floricultura/",
+    "segment": "Floricultura",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para floricultura",
+    "url": "/guias/agendamento-floricultura/",
+    "segment": "Floricultura",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para floricultura",
+    "url": "/guias/orcamento-floricultura/",
+    "segment": "Floricultura",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para floricultura",
+    "url": "/guias/catalogo-floricultura/",
+    "segment": "Floricultura",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para floricultura",
+    "url": "/guias/lembrete-floricultura/",
+    "segment": "Floricultura",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para floricultura",
+    "url": "/guias/pos-venda-floricultura/",
+    "segment": "Floricultura",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para floricultura",
+    "url": "/guias/retomada-floricultura/",
+    "segment": "Floricultura",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para floricultura",
+    "url": "/guias/pix-floricultura/",
+    "segment": "Floricultura",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para floricultura",
+    "url": "/guias/encaminhamento-floricultura/",
+    "segment": "Floricultura",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para estúdio de pilates",
+    "url": "/guias/primeiro-contato-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para estúdio de pilates",
+    "url": "/guias/agendamento-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para estúdio de pilates",
+    "url": "/guias/orcamento-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para estúdio de pilates",
+    "url": "/guias/catalogo-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para estúdio de pilates",
+    "url": "/guias/lembrete-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para estúdio de pilates",
+    "url": "/guias/pos-venda-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para estúdio de pilates",
+    "url": "/guias/retomada-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para estúdio de pilates",
+    "url": "/guias/pix-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para estúdio de pilates",
+    "url": "/guias/encaminhamento-estudio-de-pilates/",
+    "segment": "Estúdio de pilates",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para assistência técnica de celulares",
+    "url": "/guias/primeiro-contato-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para assistência técnica de celulares",
+    "url": "/guias/agendamento-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para assistência técnica de celulares",
+    "url": "/guias/orcamento-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para assistência técnica de celulares",
+    "url": "/guias/catalogo-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para assistência técnica de celulares",
+    "url": "/guias/lembrete-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para assistência técnica de celulares",
+    "url": "/guias/pos-venda-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para assistência técnica de celulares",
+    "url": "/guias/retomada-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para assistência técnica de celulares",
+    "url": "/guias/pix-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para assistência técnica de celulares",
+    "url": "/guias/encaminhamento-assistencia-tecnica-celulares/",
+    "segment": "Assistência técnica de celulares",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como criar resposta automática no WhatsApp para lavanderia",
+    "url": "/guias/primeiro-contato-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Primeiro contato",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como automatizar agendamento pelo WhatsApp para lavanderia",
+    "url": "/guias/agendamento-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Agendamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar orçamentos no WhatsApp para lavanderia",
+    "url": "/guias/orcamento-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Orçamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como usar catálogo do WhatsApp Business para lavanderia",
+    "url": "/guias/catalogo-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Catálogo",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como enviar lembrete pelo WhatsApp Business para lavanderia",
+    "url": "/guias/lembrete-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Lembrete",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como fazer pós-venda no WhatsApp para lavanderia",
+    "url": "/guias/pos-venda-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Pós-venda",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como retomar clientes interessados pelo WhatsApp para lavanderia",
+    "url": "/guias/retomada-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Retomada",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como organizar cobrança por Pix no WhatsApp para lavanderia",
+    "url": "/guias/pix-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Pagamento",
+    "intent": "informacional com intenção de ferramenta"
+  },
+  {
+    "keyword": "como encaminhar atendimento do WhatsApp para uma pessoa para lavanderia",
+    "url": "/guias/encaminhamento-lavanderia/",
+    "segment": "Lavanderia",
+    "job": "Atendimento humano",
+    "intent": "informacional com intenção de ferramenta"
+  }
+]

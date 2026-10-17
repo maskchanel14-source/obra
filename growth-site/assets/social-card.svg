@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f8f2"/>
+  <circle cx="1152" cy="2" r="320" fill="#e6efd9"/>
+  <rect x="64" y="59" width="1072" height="512" rx="34" fill="#14241e"/>
+  <path d="M82 462C364 238 529 652 801 411S1097 350 1121 335" fill="none" stroke="#395646" stroke-width="2"/>
+  <rect x="115" y="110" width="48" height="48" rx="13" fill="#d4f276"/>
+  <path d="M126 122h26v20h-14l-7 7v-7h-5z" fill="#14241e"/>
+  <circle cx="134" cy="132" r="2" fill="#d4f276"/><circle cx="144" cy="132" r="2" fill="#d4f276"/>
+  <text x="179" y="144" fill="#f7f8f2" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="35">balcão.</text>
+  <text x="113" y="286" fill="#f7f8f2" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="57">WhatsApp bem</text>
+  <text x="113" y="364" fill="#d4f276" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="57">resolvido.</text>
+  <text x="115" y="450" fill="#bdcebf" font-family="DejaVu Sans, sans-serif" font-size="22">Roteiros práticos para pequenos negócios.</text>
+  <rect x="760" y="153" width="283" height="299" rx="23" fill="#f8faf4" transform="rotate(4 902 303)"/>
+  <rect x="791" y="220" width="175" height="62" rx="17" fill="#e6ece3" transform="rotate(4 902 303)"/>
+  <rect x="834" y="304" width="177" height="75" rx="17" fill="#d4f276" transform="rotate(4 902 303)"/>
+  <circle cx="797" cy="198" r="16" fill="#d4f276"/>
+  <text x="836" y="477" fill="#cfe1ce" font-family="DejaVu Sans, sans-serif" font-size="15" letter-spacing="2">GUIA DE CAMPO / BRASIL</text>
+</svg>

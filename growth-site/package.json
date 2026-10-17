@@ -1,0 +1,16 @@
+{
+  "name": "balcao-guias",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Guias estáticos de atendimento no WhatsApp para pequenos negócios brasileiros",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "keywords": "node scripts/export-keywords.mjs",
+    "check": "npm run build && npm test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
