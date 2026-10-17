@@ -16,10 +16,12 @@
     "Local HTTP checks returned 200 for all 100 pages, sitemap, CSS and social image",
     "The first Vercel production deployment reached READY with the production alias assigned",
     "Vercel build events reported: Built 100 static HTML pages for https://balcao-guias.vercel.app",
-    "The public home page, two different guide pages and the XML sitemap were retrieved successfully"
+    "The public home page, two different guide pages and the XML sitemap were retrieved successfully",
+    "A later push to the session branch automatically created a READY preview deployment"
   ],
   "known_limitations": [
-    "Automatic Git deployments were disabled in the Vercel project creation response. This release was deployed explicitly from the session branch; future pushes are not yet guaranteed to auto-deploy.",
+    "The Vercel project's production branch is main. Git pushes on arena/bf988cfb-obra automatically build protected previews, not the public production domain; publishing this branch to production requires an explicit deployment or a production-branch setting change.",
+    "The project-creation response showed createDeployments: disabled, but later Git-triggered preview deployments were observed. Observed deployments supersede that initial flag as evidence of preview automation.",
     "Vercel's deployment file-tree endpoint returned 404 File tree not found. Build events and public URLs were used to verify the release instead.",
     "Keyword demand, competition and affiliate-program approval have not been measured or claimed."
   ]
