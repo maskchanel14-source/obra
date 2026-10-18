@@ -1,0 +1,397 @@
+[
+  {
+    "id": "da-001",
+    "slug": "glassmorphism-icon-suite",
+    "name": "Glassmorphism Icon Suite",
+    "tagline": "480 frosted-glass icons in 4 weights",
+    "category": "design-assets",
+    "price": 24,
+    "formats": [
+      "SVG",
+      "Figma",
+      "PNG"
+    ],
+    "fileSize": "9 MB",
+    "tags": [
+      "icons",
+      "glassmorphism",
+      "svg",
+      "figma",
+      "ui"
+    ],
+    "keywords": [
+      "glassmorphism icon pack",
+      "svg icon suite",
+      "figma icons free commercial",
+      "ui icon pack 2026"
+    ],
+    "description": "A 480-icon suite rendered in frosted glass across four weights. Every icon sits on a 24px grid, aligns optically, and ships in SVG, Figma, and PNG at 1x–4x.",
+    "features": [
+      "480 icons across 24 categories",
+      "4 weights: light, regular, medium, bold",
+      "Pixel-perfect 24px grid with optical corrections",
+      "SVG + Figma library + PNG exports",
+      "Commercial license included"
+    ],
+    "includes": [
+      "Master SVG set",
+      "Figma library file",
+      "PNG set @1x–4x",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Can I recolor them?",
+        "a": "Yes — SVGs use currentColor where possible; the Figma file has styles bound."
+      },
+      {
+        "q": "Do you offer an outline variant?",
+        "a": "The Bold weight reads as outline at small sizes; a true outline set is on the 2026 roadmap."
+      },
+      {
+        "q": "Covers app icons too?",
+        "a": "The suite is UI-focused; 40 'app-style' tiles are included in the bonus folder."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "icons"
+  },
+  {
+    "id": "da-002",
+    "slug": "gradient-mesh-backgrounds",
+    "name": "Gradient Mesh Backgrounds",
+    "tagline": "120 buttery gradients, ready for product",
+    "category": "design-assets",
+    "price": 19,
+    "formats": [
+      "PNG",
+      "SVG",
+      "CSS"
+    ],
+    "fileSize": "42 MB",
+    "tags": [
+      "gradients",
+      "backgrounds",
+      "mesh",
+      "css",
+      "ui"
+    ],
+    "keywords": [
+      "gradient backgrounds pack",
+      "mesh gradients commercial",
+      "css gradient library",
+      "product background pack"
+    ],
+    "description": "120 gradient meshes in 4K PNG, resolution-independent SVG, and copy-paste CSS. Hero sections, dashboards, and slides — all without the mushy 2015 look.",
+    "features": [
+      "120 curated meshes across 12 moods",
+      "4K PNG + infinite SVG + CSS code",
+      "Dark-mode variants for every gradient",
+      "Animated CSS versions for 20 hero picks",
+      "Subtle-noise overlay pack for texture"
+    ],
+    "includes": [
+      "PNG, SVG, and CSS sets",
+      "Noise overlay pack",
+      "Usage guide for contrast-safe pairing",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Do gradients hurt readability?",
+        "a": "Each concept includes a suggested text-safe zone; check legibility against your actual background and content."
+      },
+      {
+        "q": "Commercial use?",
+        "a": "Full commercial rights, including client work, with every license tier."
+      },
+      {
+        "q": "Can I use them in apps?",
+        "a": "The CSS set is made for that — single-class drop-ins."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "gradient"
+  },
+  {
+    "id": "da-003",
+    "slug": "motion-ui-kit",
+    "name": "Motion UI Kit",
+    "tagline": "60 animations that make interfaces feel alive",
+    "category": "design-assets",
+    "price": 39,
+    "formats": [
+      "Lottie",
+      "CSS",
+      "Figma"
+    ],
+    "fileSize": "18 MB",
+    "tags": [
+      "motion",
+      "animation",
+      "lottie",
+      "css",
+      "micro-interactions"
+    ],
+    "keywords": [
+      "motion ui kit",
+      "lottie animations pack",
+      "micro interaction library",
+      "css animations pack"
+    ],
+    "description": "Sixty purpose-built animations: button hovers, skeleton shimmer, toast entrances, page transitions, and empty states. Lottie, CSS, and Figma prototypes included.",
+    "features": [
+      "60 animations across 8 interaction classes",
+      "Lottie JSON + pure-CSS versions",
+      "Reduced-motion fallbacks for every animation",
+      "Figma Smart Animate prototypes",
+      "Performance budget notes per animation"
+    ],
+    "includes": [
+      "Lottie + CSS source files",
+      "Figma prototype file",
+      "Motion design principles guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Performance impact?",
+        "a": "CSS set uses transforms/opacity only; Lotties average under 40KB each."
+      },
+      {
+        "q": "Accessibility?",
+        "a": "Every animation ships with a respects-prefers-reduced-motion variant."
+      },
+      {
+        "q": "Framework support?",
+        "a": "CSS works anywhere; React/Vue wrappers are in the extras."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "motion"
+  },
+  {
+    "id": "da-004",
+    "slug": "brand-identity-pack",
+    "name": "Brand Identity Pack",
+    "tagline": "Logo systems, palettes, and type in one kit",
+    "category": "design-assets",
+    "price": 54,
+    "formats": [
+      "Figma",
+      "SVG",
+      "PDF"
+    ],
+    "fileSize": "26 MB",
+    "tags": [
+      "branding",
+      "logo",
+      "identity",
+      "figma",
+      "palette"
+    ],
+    "keywords": [
+      "brand identity template",
+      "logo system pack",
+      "brand kit figma",
+      "startup branding pack"
+    ],
+    "description": "A modular identity system: 30 logo archetypes with construction grids, 24 palettes with accessible pairings, and type systems with fallbacks. Remix into a brand that's yours.",
+    "features": [
+      "30 logo archetypes with construction grids",
+      "24 palettes with AA-contrast pairings",
+      "Type systems with display/body/mono roles",
+      "Brand voice one-pagers (4 archetypes)",
+      "Figma auto-layout components"
+    ],
+    "includes": [
+      "Figma library + SVG masters",
+      "Palette + type system files",
+      "Brand voice one-pagers",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Can I trademark a logo from the pack?",
+        "a": "You can use any logo, but run a trademark search first — the pack is non-exclusive."
+      },
+      {
+        "q": "Does it include business cards?",
+        "a": "Stationery mockups ship as Figma frames you can export."
+      },
+      {
+        "q": "Solo designer friendly?",
+        "a": "Yes — the system is built to be run by one person in an afternoon."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "brand"
+  },
+  {
+    "id": "da-005",
+    "slug": "dashboard-illustration-set",
+    "name": "Dashboard Illustration Set",
+    "tagline": "80 vector illustrations for analytics and empty states",
+    "category": "design-assets",
+    "price": 29,
+    "formats": [
+      "SVG",
+      "Figma"
+    ],
+    "fileSize": "15 MB",
+    "tags": [
+      "illustrations",
+      "dashboard",
+      "empty states",
+      "svg"
+    ],
+    "keywords": [
+      "dashboard illustrations",
+      "empty state svg pack",
+      "analytics illustrations",
+      "ui illustration set"
+    ],
+    "description": "Eighty illustrations tuned for product interfaces: empty states, error scenes, analytics metaphors, and onboarding moments. Consistent stroke work, recolorable in one click.",
+    "features": [
+      "80 illustrations across 6 scene types",
+      "One-click recolor via Figma variables",
+      "Consistent 1.5px stroke language",
+      "Dark-mode variants for all scenes",
+      "Lottie versions for 12 hero illustrations"
+    ],
+    "includes": [
+      "SVG master set + Figma library",
+      "Dark-mode variants",
+      "12 Lottie animations",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Can I modify the illustrations?",
+        "a": "Yes — the Figma file is fully editable with named layers."
+      },
+      {
+        "q": "Do they work at small sizes?",
+        "a": "Each ships in 512px master with a simplified 128px variant."
+      },
+      {
+        "q": "Resale allowed?",
+        "a": "No — use within your products and client work, not as a standalone asset store."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "illustration"
+  },
+  {
+    "id": "da-006",
+    "slug": "abstract-3d-render-pack",
+    "name": "Abstract 3D Render Pack",
+    "tagline": "75 renders for heroes, covers, and thumbnails",
+    "category": "design-assets",
+    "price": 44,
+    "formats": [
+      "PNG",
+      "JPG"
+    ],
+    "fileSize": "120 MB",
+    "tags": [
+      "3d",
+      "renders",
+      "abstract",
+      "hero images",
+      "covers"
+    ],
+    "keywords": [
+      "3d render pack",
+      "abstract hero images",
+      "product cover images",
+      "3d backgrounds commercial"
+    ],
+    "description": "Seventy-five abstract 3D renders in cinematic lighting — shapes, waves, and glass forms that frame headlines without stealing focus. 4K PNGs with transparent-background variants.",
+    "features": [
+      "75 renders across 5 aesthetic families",
+      "4K PNG with alpha-channel variants",
+      "Cinematic lighting: rim, ambient, and neon",
+      "Space-aware compositions (copy-safe zones)",
+      "Color-graded sets for dark and light UIs"
+    ],
+    "includes": [
+      "Full 4K render set",
+      "Alpha-channel variants",
+      "Copy-safe zone guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "File size large for a download?",
+        "a": "A lite set (1080p) ships alongside the 4K masters — pick per use case."
+      },
+      {
+        "q": "Can I use them in paid ads?",
+        "a": "Yes, all licenses cover paid campaigns."
+      },
+      {
+        "q": "Editable scenes?",
+        "a": "Renders are flattened; a Blender starter scene is included for remixing."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "render"
+  },
+  {
+    "id": "da-007",
+    "slug": "font-pairing-guide-pack",
+    "name": "Font Pairing Guide Pack",
+    "tagline": "50 font-pairing examples with specimens",
+    "category": "design-assets",
+    "price": 17,
+    "formats": [
+      "PDF",
+      "Figma"
+    ],
+    "fileSize": "8 MB",
+    "tags": [
+      "typography",
+      "fonts",
+      "pairing",
+      "guide",
+      "design"
+    ],
+    "keywords": [
+      "font pairing guide",
+      "google fonts pairing pack",
+      "typography cheat sheet",
+      "font combination pdf"
+    ],
+    "description": "Fifty font pairings with rationale, scales, and live specimens — each graded for body legibility, display punch, and mood. Includes a type-scale calculator sheet.",
+    "features": [
+      "50 pairings across 6 mood families",
+      "Type scale tables (modular ratios)",
+      "Legibility grades for body text",
+      "Figma specimen file",
+      "Free-font-only appendix (all Google Fonts)"
+    ],
+    "includes": [
+      "Pairing guide (PDF, 120 pages)",
+      "Figma specimen file",
+      "Type-scale calculator sheet",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Are the fonts free?",
+        "a": "All 50 pairings use Google Fonts — zero licensing cost."
+      },
+      {
+        "q": "Good for print too?",
+        "a": "The principles transfer; specimens are screen-focused."
+      },
+      {
+        "q": "What if I hate every pairing?",
+        "a": "The framework chapter teaches you to pair anything, not just copy these 50."
+      }
+    ],
+    "accent": "#ec4899",
+    "mock": "type"
+  }
+]

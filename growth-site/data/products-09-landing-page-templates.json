@@ -1,0 +1,437 @@
+[
+  {
+    "id": "lp-001",
+    "slug": "saas-launch-canvas",
+    "name": "SaaS Launch Canvas",
+    "tagline": "A landing page that explains, proves, converts",
+    "category": "landing-page-templates",
+    "price": 69,
+    "formats": [
+      "HTML/CSS",
+      "Tailwind"
+    ],
+    "fileSize": "4 MB",
+    "tags": [
+      "landing page",
+      "saas",
+      "template",
+      "html"
+    ],
+    "keywords": [
+      "saas landing page template",
+      "launch page html template",
+      "convert landing page template",
+      "startup landing page"
+    ],
+    "description": "A structured layout for a clear one-liner, problem framing, proof points, and a sticky CTA. Fully responsive, dark and light.",
+    "features": [
+      "Conversion-aware section order to evaluate",
+      "Sticky CTA with scroll-aware reveal",
+      "Dark + light themes",
+      "SEO head: JSON-LD, OG, canonical",
+      "Performance budget notes and audit checklist (run your own Lighthouse test)"
+    ],
+    "includes": [
+      "HTML/CSS source (Tailwind optional)",
+      "Copy deck with section formulas",
+      "Lighthouse audit checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Framework-free?",
+        "a": "Yes — vanilla HTML/CSS, with a Tailwind variant included."
+      },
+      {
+        "q": "Can I add a waitlist?",
+        "a": "A waitlist section with form endpoints ships included."
+      },
+      {
+        "q": "Custom domain?",
+        "a": "Any static host: Vercel, Netlify, GitHub Pages."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-002",
+    "slug": "portfolio-spotlight",
+    "name": "Portfolio Spotlight",
+    "tagline": "Case studies that win clients",
+    "category": "landing-page-templates",
+    "price": 44,
+    "formats": [
+      "HTML/CSS"
+    ],
+    "fileSize": "3 MB",
+    "tags": [
+      "portfolio",
+      "case study",
+      "template",
+      "freelance"
+    ],
+    "keywords": [
+      "portfolio website template",
+      "case study page template",
+      "freelancer portfolio html",
+      "designer portfolio template"
+    ],
+    "description": "A portfolio built around case studies: project cards with outcome metrics, a process timeline, and an about page that converts visitors into clients.",
+    "features": [
+      "Case-study layout with outcome metrics",
+      "Project filter by skill and industry",
+      "Process timeline section",
+      "Testimonials carousel",
+      "Contact CTA with calendar link"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Case-study copy formula",
+      "Sample projects (3)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Blog included?",
+        "a": "A writing section ships with RSS-ready markup."
+      },
+      {
+        "q": "Print-friendly resume page?",
+        "a": "Yes — a print CSS produces a clean one-pager."
+      },
+      {
+        "q": "Multilingual?",
+        "a": "An example localization pattern can be added to the implementation."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-003",
+    "slug": "ai-product-debut-page",
+    "name": "AI Product Debut Page",
+    "tagline": "Launch pages built for AI products",
+    "category": "landing-page-templates",
+    "price": 59,
+    "formats": [
+      "HTML/CSS",
+      "Tailwind"
+    ],
+    "fileSize": "3.6 MB",
+    "tags": [
+      "ai",
+      "landing page",
+      "launch",
+      "template"
+    ],
+    "keywords": [
+      "ai product landing page",
+      "ai tool launch page",
+      "gpt product template",
+      "ai startup landing page"
+    ],
+    "description": "A debut page tuned for AI products: model transparency section, use-case picker, live demo embed slot, and trust signals for hallucination-aware buyers.",
+    "features": [
+      "Use-case picker with dynamic copy",
+      "Live demo embed slot",
+      "Model transparency section",
+      "Trust-signal bar (security, uptime, data)",
+      "Waitlist + Product Hunt CTA modules"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Launch-day checklist",
+      "Demo embed examples",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Handles model switching?",
+        "a": "The transparency section documents providers and fallbacks cleanly."
+      },
+      {
+        "q": "Demo slot supports iframes?",
+        "a": "Yes, plus a screenshot fallback for native apps."
+      },
+      {
+        "q": "Product Hunt ready?",
+        "a": "The call-to-action module can be adapted for a Product Hunt launch; verify current platform guidance."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-004",
+    "slug": "ecommerce-convert-page",
+    "name": "E-Commerce Convert Page",
+    "tagline": "Product pages with irresistible detail",
+    "category": "landing-page-templates",
+    "price": 54,
+    "formats": [
+      "HTML/CSS"
+    ],
+    "fileSize": "3.4 MB",
+    "tags": [
+      "ecommerce",
+      "product page",
+      "template",
+      "conversion"
+    ],
+    "keywords": [
+      "ecommerce product page template",
+      "conversion landing page html",
+      "product detail page template",
+      "store landing page"
+    ],
+    "description": "A product page engineered for detail: gallery with zoom, spec accordion, social-proof rail, and an urgency module that stays honest.",
+    "features": [
+      "Gallery with zoom and thumbnails",
+      "Spec accordion and size guide",
+      "Social-proof rail (reviews, logos)",
+      "Honest urgency module",
+      "Sticky add-to-cart on scroll"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Copy deck for each module",
+      "Photo shot-list template",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Payment integration?",
+        "a": "Checkout buttons link to your provider (Stripe Payment Links included)."
+      },
+      {
+        "q": "Digital products?",
+        "a": "Yes — a digital-delivery variant ships."
+      },
+      {
+        "q": "Accessibility?",
+        "a": "Keyboard-navigable gallery and focus styles built in."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-005",
+    "slug": "agency-showcase-template",
+    "name": "Agency Showcase Template",
+    "tagline": "Win work with a sharp agency site",
+    "category": "landing-page-templates",
+    "price": 64,
+    "formats": [
+      "HTML/CSS",
+      "Tailwind"
+    ],
+    "fileSize": "4.2 MB",
+    "tags": [
+      "agency",
+      "showcase",
+      "template",
+      "landing"
+    ],
+    "keywords": [
+      "agency website template",
+      "agency showcase landing page",
+      "creative agency html template",
+      "agency portfolio template"
+    ],
+    "description": "A showcase site for agencies: capability matrix, selected-work gallery with case-study links, team page, and a bold contact CTA.",
+    "features": [
+      "Capability matrix section",
+      "Work gallery with case-study links",
+      "Team page with role filters",
+      "Bold contact CTA band",
+      "Client-logo marquee"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Case-study page template",
+      "Capability copy deck",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "CMS included?",
+        "a": "No — it's static; wire your CMS via the content slots."
+      },
+      {
+        "q": "Dark mode?",
+        "a": "Yes, with a toggle and system preference fallback."
+      },
+      {
+        "q": "Performance?",
+        "a": "The concept uses no JavaScript framework; run a performance audit on your own deployment."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-006",
+    "slug": "course-sales-page",
+    "name": "Course Sales Page",
+    "tagline": "Long-form sales pages that teach and sell",
+    "category": "landing-page-templates",
+    "price": 49,
+    "formats": [
+      "HTML/CSS"
+    ],
+    "fileSize": "3.2 MB",
+    "tags": [
+      "course",
+      "sales page",
+      "education",
+      "template"
+    ],
+    "keywords": [
+      "course sales page template",
+      "online course landing page",
+      "sales page html template",
+      "education landing page"
+    ],
+    "description": "A long-form page concept with instructor background, curriculum details, outcomes, FAQs, and an optional payment-plan section.",
+    "features": [
+      "Instructor credibility block",
+      "Curriculum accordion",
+      "Outcomes wall with testimonials",
+      "FAQ accordion",
+      "Payment plan module"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Sales copy formula guide",
+      "Curriculum layout examples",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Checkout integration?",
+        "a": "Stripe Payment Links and Gumroad embeds both supported."
+      },
+      {
+        "q": "Webinar replay variant?",
+        "a": "A replay page module ships as a bonus."
+      },
+      {
+        "q": "Email capture?",
+        "a": "A pre-sale lead magnet section is included."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-007",
+    "slug": "event-registration-page",
+    "name": "Event Registration Page",
+    "tagline": "Sell out your next event",
+    "category": "landing-page-templates",
+    "price": 39,
+    "formats": [
+      "HTML/CSS"
+    ],
+    "fileSize": "2.8 MB",
+    "tags": [
+      "event",
+      "registration",
+      "template",
+      "ticketing"
+    ],
+    "keywords": [
+      "event registration page template",
+      "event landing page html",
+      "conference ticket page",
+      "webinar registration template"
+    ],
+    "description": "An event page with countdown, agenda timeline, speaker cards, venue block, and a ticket-tier selector with early-bird logic.",
+    "features": [
+      "Live countdown module",
+      "Agenda timeline with tracks",
+      "Speaker cards with socials",
+      "Ticket-tier selector",
+      "Early-bird auto-pricing logic"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Countdown script",
+      "Ticket copy deck",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Payment processing?",
+        "a": "Checkout links to Stripe or your ticketing provider."
+      },
+      {
+        "q": "Virtual events?",
+        "a": "A streaming-link module replaces the venue block."
+      },
+      {
+        "q": "Calendar file download?",
+        "a": ".ics generation is wired and ready."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  },
+  {
+    "id": "lp-008",
+    "slug": "newsletter-grow-page",
+    "name": "Newsletter Grow Page",
+    "tagline": "Subscriber pages with irresistible offers",
+    "category": "landing-page-templates",
+    "price": 34,
+    "formats": [
+      "HTML/CSS"
+    ],
+    "fileSize": "2.5 MB",
+    "tags": [
+      "newsletter",
+      "lead magnet",
+      "template",
+      "growth"
+    ],
+    "keywords": [
+      "newsletter landing page template",
+      "lead magnet page html",
+      "subscriber growth page",
+      "email signup page template"
+    ],
+    "description": "A grow page: value-prop hero, archive showcase, frequency promise, and a two-step signup that lifts conversions.",
+    "features": [
+      "Value-prop hero with social proof",
+      "Archive showcase grid",
+      "Frequency and expectation setter",
+      "Two-step signup module",
+      "Welcome-email copy pack"
+    ],
+    "includes": [
+      "HTML/CSS source",
+      "Two-step signup script",
+      "Welcome email copy pack",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Provider integration?",
+        "a": "ConvertKit, Buttondown, Mailchimp, and Substack patterns included."
+      },
+      {
+        "q": "Popup included?",
+        "a": "A slide-in and a scroll-box variant ship."
+      },
+      {
+        "q": "GDPR consent?",
+        "a": "The form includes a compliant consent line."
+      }
+    ],
+    "accent": "#e11d48",
+    "mock": "page"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "sd-001",
+    "slug": "marketing-metrics-command",
+    "name": "Marketing Metrics Command",
+    "tagline": "Every channel, one dashboard",
+    "category": "spreadsheet-dashboards",
+    "price": 39,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "2.2 MB",
+    "tags": [
+      "marketing",
+      "metrics",
+      "dashboard",
+      "google sheets"
+    ],
+    "keywords": [
+      "marketing dashboard template",
+      "google sheets marketing metrics",
+      "kpi dashboard spreadsheet",
+      "marketing analytics sheet"
+    ],
+    "description": "A concept dashboard for marketing: CAC, LTV, ROAS, and funnel metrics by channel, with weekly charts and anomaly flags.",
+    "features": [
+      "CAC, LTV, ROAS per channel",
+      "Funnel stage analysis with drop-off",
+      "Weekly auto-chart builder",
+      "Anomaly flags with 2-sigma bands",
+      "Shareable exec view"
+    ],
+    "includes": [
+      "Google Sheets + Excel versions",
+      "Sample dataset (90 days)",
+      "Metric definitions sheet",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "No plugins needed?",
+        "a": "Correct — pure Sheets formulas and charts."
+      },
+      {
+        "q": "Data import help?",
+        "a": "CSV import templates plus a Sheets-API pull script for GA4."
+      },
+      {
+        "q": "Works in Excel?",
+        "a": "Yes — formulas are cross-compatible; charts rebuilt."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-002",
+    "slug": "startup-financial-model",
+    "name": "Startup Financial Model",
+    "tagline": "Three-statement model with scenarios",
+    "category": "spreadsheet-dashboards",
+    "price": 79,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "3.1 MB",
+    "tags": [
+      "finance",
+      "startup",
+      "modeling",
+      "fundraising"
+    ],
+    "keywords": [
+      "startup financial model template",
+      "saas financial model spreadsheet",
+      "fundraising model google sheets",
+      "3 statement model"
+    ],
+    "description": "A founder-grade three-statement model: monthly P&L, cash flow, and balance sheet with scenario toggles and a cap table view.",
+    "features": [
+      "Three-statement monthly model",
+      "Scenario toggles (base/upside/downside)",
+      "SaaS metrics: MRR, churn, NRR",
+      "Cap table view with rounds",
+      "Investor-ready output sheets"
+    ],
+    "includes": [
+      "Model workbook (Sheets + Excel)",
+      "Assumption guide (PDF)",
+      "Sample SaaS dataset",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Accounting knowledge needed?",
+        "a": "Basic — the assumption guide explains every driver."
+      },
+      {
+        "q": "Does it do fundraising?",
+        "a": "The cap table view models rounds, dilution, and option pools."
+      },
+      {
+        "q": "Excel macros?",
+        "a": "Zero macros — everything is native formulas."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-003",
+    "slug": "content-roi-tracker",
+    "name": "Content ROI Tracker",
+    "tagline": "Prove content pays for itself",
+    "category": "spreadsheet-dashboards",
+    "price": 33,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "1.7 MB",
+    "tags": [
+      "content",
+      "roi",
+      "seo",
+      "dashboard"
+    ],
+    "keywords": [
+      "content roi tracker",
+      "content marketing spreadsheet",
+      "blog roi dashboard",
+      "content performance sheet"
+    ],
+    "description": "Track every piece of content against pipeline and revenue. Attribution modes for last-touch, first-touch, and multi-touch.",
+    "features": [
+      "Content-to-revenue attribution (3 models)",
+      "Per-piece cost and time tracking",
+      "Traffic and conversion trend charts",
+      "Topic cluster performance view",
+      "Refresh-priority scoring"
+    ],
+    "includes": [
+      "Tracker workbook",
+      "Attribution explainer (PDF)",
+      "Sample data",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "How do I get costs in?",
+        "a": "Manual entry or CSV import from your time-tracking tool."
+      },
+      {
+        "q": "Attribution accuracy?",
+        "a": "The guide describes trade-offs between attribution models; choose based on your sales cycle."
+      },
+      {
+        "q": "Team sharing?",
+        "a": "Built for Google Sheets sharing with protected ranges."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-004",
+    "slug": "personal-budget-matrix",
+    "name": "Personal Budget Matrix",
+    "tagline": "Zero-based budgeting, beautifully simple",
+    "category": "spreadsheet-dashboards",
+    "price": 21,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "1.4 MB",
+    "tags": [
+      "budget",
+      "personal finance",
+      "spreadsheet"
+    ],
+    "keywords": [
+      "personal budget spreadsheet",
+      "zero based budget template",
+      "monthly budget google sheets",
+      "finance dashboard template"
+    ],
+    "description": "A zero-based budget matrix with envelopes, a 12-month cash forecast, and a one-glance dashboard. Takes 20 minutes to set up.",
+    "features": [
+      "Zero-based envelope budgeting",
+      "12-month cash-flow forecast",
+      "One-glance monthly dashboard",
+      "Recurring-bill tracker",
+      "Savings goals with progress rings"
+    ],
+    "includes": [
+      "Budget workbook",
+      "20-minute setup guide",
+      "Sample budget",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Bank sync?",
+        "a": "Manual or CSV import — no bank connections, which keeps it free."
+      },
+      {
+        "q": "Shared with partner?",
+        "a": "Yes — a household view merges two envelopes."
+      },
+      {
+        "q": "Mobile friendly?",
+        "a": "The dashboard works well in the Sheets mobile app."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-005",
+    "slug": "sales-pipeline-board",
+    "name": "Sales Pipeline Board",
+    "tagline": "A CRM you can hold in a spreadsheet",
+    "category": "spreadsheet-dashboards",
+    "price": 44,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "1.9 MB",
+    "tags": [
+      "sales",
+      "crm",
+      "pipeline",
+      "dashboard"
+    ],
+    "keywords": [
+      "sales pipeline spreadsheet",
+      "crm google sheets template",
+      "sales dashboard excel",
+      "pipeline tracker template"
+    ],
+    "description": "A Kanban-style pipeline in Sheets: deal stages, weighted forecasts, activity logging, and a weekly revenue readout.",
+    "features": [
+      "Kanban pipeline with stage probabilities",
+      "Weighted forecast and commit views",
+      "Activity log per deal",
+      "Weekly revenue readout",
+      "Lead source ROI analysis"
+    ],
+    "includes": [
+      "Pipeline workbook",
+      "Setup video (12 min)",
+      "Sample pipeline",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "When do I outgrow this?",
+        "a": "The right time to migrate depends on deal volume, collaboration needs, and reporting requirements."
+      },
+      {
+        "q": "Email integration?",
+        "a": "No, but a Gmail-to-Sheets logging recipe ships in the docs."
+      },
+      {
+        "q": "Multi-currency?",
+        "a": "Yes — with a manual rate table."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-006",
+    "slug": "inventory-flow-tracker",
+    "name": "Inventory Flow Tracker",
+    "tagline": "Stock levels, reorder points, and COGS",
+    "category": "spreadsheet-dashboards",
+    "price": 37,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "1.6 MB",
+    "tags": [
+      "inventory",
+      "ecommerce",
+      "operations",
+      "dashboard"
+    ],
+    "keywords": [
+      "inventory tracker spreadsheet",
+      "reorder point calculator",
+      "cogs spreadsheet template",
+      "stock management dashboard"
+    ],
+    "description": "Inventory flow for small ecommerce: stock levels, reorder points with safety stock, COGS tracking, and a low-stock alert view.",
+    "features": [
+      "Reorder point calculator with safety stock",
+      "COGS tracking (FIFO and average)",
+      "Low-stock alert view",
+      "Supplier lead-time table",
+      "Monthly stock health report"
+    ],
+    "includes": [
+      "Inventory workbook",
+      "Reorder-point guide",
+      "Sample catalog",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Barcode scanning?",
+        "a": "Not built-in; the docs show a Google Forms intake that feeds the sheet."
+      },
+      {
+        "q": "Multi-warehouse?",
+        "a": "Up to 3 locations in the location column."
+      },
+      {
+        "q": "Works with Shopify?",
+        "a": "CSV export from Shopify imports cleanly; a mapping sheet is included."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  },
+  {
+    "id": "sd-007",
+    "slug": "kpi-executive-dashboard",
+    "name": "KPI Executive Dashboard",
+    "tagline": "Board-ready metrics in one sheet",
+    "category": "spreadsheet-dashboards",
+    "price": 52,
+    "formats": [
+      "Google Sheets",
+      "Excel"
+    ],
+    "fileSize": "2.0 MB",
+    "tags": [
+      "kpi",
+      "executive",
+      "dashboard",
+      "reporting"
+    ],
+    "keywords": [
+      "executive dashboard template",
+      "kpi spreadsheet",
+      "board report spreadsheet",
+      "metrics dashboard google sheets"
+    ],
+    "description": "A board-ready KPI dashboard: financial, customer, and operational metrics with traffic-light status and a one-page narrative generator.",
+    "features": [
+      "Financial, customer, ops metric sets",
+      "Traffic-light status system",
+      "Quarter-over-quarter trend view",
+      "Narrative generator for board updates",
+      "Print-perfect one-pager layout"
+    ],
+    "includes": [
+      "Dashboard workbook",
+      "KPI dictionary (PDF)",
+      "Narrative template pack",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which KPIs are included?",
+        "a": "36 default across three perspectives; fully customizable."
+      },
+      {
+        "q": "Can I present from it?",
+        "a": "The one-pager prints cleanly and exports to PDF."
+      },
+      {
+        "q": "Data sources?",
+        "a": "Manual entry or CSV import; connectors documented."
+      }
+    ],
+    "accent": "#14b8a6",
+    "mock": "chart"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": "pp-001",
+    "slug": "conversion-copy-catalyst",
+    "name": "Conversion Copy Catalyst",
+    "tagline": "340 prompts that turn bland drafts into revenue copy",
+    "category": "prompt-packs",
+    "price": 29,
+    "formats": [
+      "Markdown",
+      "JSON",
+      "Notion"
+    ],
+    "fileSize": "1.2 MB",
+    "tags": [
+      "copywriting",
+      "email",
+      "ads",
+      "landing pages",
+      "gpt-5",
+      "claude"
+    ],
+    "keywords": [
+      "ai copywriting prompt pack",
+      "conversion email prompts",
+      "ad copy prompt library",
+      "landing page headline prompts"
+    ],
+    "description": "A 340-prompt library engineered for one outcome: copy that converts. Every prompt is tuned for GPT-5, Claude, and Gemini with role, context, and constraint slots, so the output lands on-brand the first time. Includes email sequences, ad angles, landing page sections, and a rewrite ladder that escalates from conservative to daring.",
+    "features": [
+      "Prompt concepts across copy missions including headlines, email, ads, landing pages, onboarding, retention, and outbound",
+      "Model-tuned system scaffolds for GPT-5, Claude 4.x, and Gemini 2.x with temperature guidance",
+      "Brand-voice calibration worksheet concept to help align tone and terminology",
+      "Rewrite ladder concept with graduated edit levels, from polish to repositioning",
+      "Annotated swipe-file concept for studying how different prompt structures affect output"
+    ],
+    "includes": [
+      "Prompt library (Markdown + JSON + Notion database)",
+      "Brand-voice calibration worksheet (PDF + editable)",
+      "120-example annotated swipe file",
+      "Lifetime updates — new prompts added quarterly"
+    ],
+    "faqs": [
+      {
+        "q": "Which AI models work with this pack?",
+        "a": "Every prompt ships with model-specific scaffolds for GPT-5, Claude 4.x, and Gemini 2.x. They also run cleanly on open models like Llama and Mistral with minor temperature tweaks."
+      },
+      {
+        "q": "Can I use the output for client work?",
+        "a": "Yes — the Extended License covers unlimited client projects and agencies. The Personal License covers one seat and your own projects."
+      },
+      {
+        "q": "How is this different from free prompt lists?",
+        "a": "Each prompt is a system with roles, constraints, and iteration logic — not one-liners. The rewrite ladder alone typically saves 6–8 drafting rounds per asset."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "copy"
+  },
+  {
+    "id": "pp-002",
+    "slug": "seo-content-engine-pack",
+    "name": "SEO Content Engine Pack",
+    "tagline": "260 prompts for search-first content that ranks",
+    "category": "prompt-packs",
+    "price": 27,
+    "formats": [
+      "Markdown",
+      "CSV",
+      "Notion"
+    ],
+    "fileSize": "980 KB",
+    "tags": [
+      "seo",
+      "content",
+      "blog",
+      "keyword",
+      "serp",
+      "claude",
+      "gpt-5"
+    ],
+    "keywords": [
+      "seo prompt pack 2026",
+      "blog post prompt library",
+      "content brief ai prompts",
+      "keyword cluster prompts"
+    ],
+    "description": "Build a full content engine with 260 prompts covering keyword clustering, intent mapping, brief generation, draft expansion, and SERP-aware optimization. The pack includes a monthly content calendar generator and a competitor gap analyzer that works from a single URL list.",
+    "features": [
+      "260 prompts across research, briefs, drafting, optimization, and repurposing",
+      "Keyword cluster generator with intent tagging and priority scoring",
+      "Competitor gap analyzer: paste 5 competitor URLs, get content opportunities",
+      "SERP-aware brief template with E-E-A-T signal checklists",
+      "Monthly calendar generator that fits your publishing cadence"
+    ],
+    "includes": [
+      "Prompt library (Markdown + CSV + Notion)",
+      "Content brief template pack (12 formats)",
+      "E-E-A-T signal checklist",
+      "Lifetime updates — refreshed for every major algorithm shift"
+    ],
+    "faqs": [
+      {
+        "q": "Does this replace an SEO tool?",
+        "a": "No — it complements one. The pack generates briefs, clusters, and optimizations; you still bring keyword volumes from your favorite tool."
+      },
+      {
+        "q": "Is it useful for programmatic SEO?",
+        "a": "Yes. The brief generator includes templated-page patterns with unique-intent variants, a common programmatic SEO workflow."
+      },
+      {
+        "q": "What format is the calendar generator?",
+        "a": "A prompt + Notion template combo: run the prompt, paste the output, and the Notion view auto-groups by week and content type."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "chart"
+  },
+  {
+    "id": "pp-003",
+    "slug": "storyforge-narrative-pack",
+    "name": "StoryForge Narrative Pack",
+    "tagline": "220 prompts for fiction, screenplays, and worldbuilding",
+    "category": "prompt-packs",
+    "price": 24,
+    "formats": [
+      "Markdown",
+      "Scrivener"
+    ],
+    "fileSize": "760 KB",
+    "tags": [
+      "fiction",
+      "screenwriting",
+      "worldbuilding",
+      "creative",
+      "story"
+    ],
+    "keywords": [
+      "ai writing prompts for fiction",
+      "screenplay prompt pack",
+      "worldbuilding prompt library",
+      "story outline generator prompts"
+    ],
+    "description": "StoryForge turns a bare premise into a structured narrative with 220 prompts spanning character engines, plot architectures, scene-level tension, and dialogue subtext. Works for novels, screenplays, games, and tabletop campaigns — with beat-sheet exports for Save the Cat and the Hero's Journey.",
+    "features": [
+      "220 prompts across character, plot, world, scene, and dialogue layers",
+      "Beat-sheet exporters for Save the Cat, Hero's Journey, and 7-Point Story",
+      "Character engine prompts that generate motivation–conflict–change arcs",
+      "Dialogue subtext trainer with 40 rewrite exercises",
+      "Genre modifiers: noir, cozy, grimdark, romantasy, hard sci-fi"
+    ],
+    "includes": [
+      "Prompt library (Markdown + Scrivener templates)",
+      "12 beat-sheet templates",
+      "Genre modifier cheat sheets",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it work for non-English stories?",
+        "a": "Yes — prompts are language-agnostic. Add your target language as a constraint slot and the models follow it cleanly."
+      },
+      {
+        "q": "Can I use it for game writing?",
+        "a": "Yes. Scene-tension prompts can branch into quest beats and NPC dialogue trees for game-writing workflows."
+      },
+      {
+        "q": "Is the output publishable as-is?",
+        "a": "Treat it as a strong first draft. The pack's rewrite ladder prompts exist precisely to push AI output toward your voice."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "doc"
+  },
+  {
+    "id": "pp-004",
+    "slug": "data-analyst-accelerator",
+    "name": "Data Analyst Accelerator",
+    "tagline": "180 prompts that write SQL, explain dashboards, and find anomalies",
+    "category": "prompt-packs",
+    "price": 32,
+    "formats": [
+      "Markdown",
+      "JSON",
+      "Excel"
+    ],
+    "fileSize": "1.1 MB",
+    "tags": [
+      "data",
+      "sql",
+      "analytics",
+      "dashboards",
+      "bi"
+    ],
+    "keywords": [
+      "data analysis ai prompts",
+      "sql prompt pack",
+      "dashboard explanation prompts",
+      "anomaly detection prompts"
+    ],
+    "description": "An analyst's second brain: 180 prompts for SQL generation across BigQuery, Snowflake, and Postgres, metric-tree decomposition, anomaly triage, and executive-ready narrative summaries. Each prompt includes schema-handling patterns so the model asks for what it needs instead of guessing.",
+    "features": [
+      "180 prompts covering SQL, metrics, anomaly triage, and narrative reporting",
+      "Dialect-aware SQL generation for BigQuery, Snowflake, Postgres, and DuckDB",
+      "Metric-tree decomposition prompts that trace KPIs to source tables",
+      "Anomaly triage workflow: detect, segment, hypothesize, verify",
+      "Executive summary templates with confidence language"
+    ],
+    "includes": [
+      "Prompt library (Markdown + JSON + Excel)",
+      "Schema-intake template pack",
+      "Anomaly triage checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Do the prompts touch my data warehouse?",
+        "a": "No. Everything runs in your chat window; you paste schemas and results. Nothing leaves your tools."
+      },
+      {
+        "q": "How good is the SQL on complex joins?",
+        "a": "The prompt asks the model to restate join logic in plain English before writing SQL, helping surface possible ambiguities before execution."
+      },
+      {
+        "q": "Does it support dbt?",
+        "a": "Yes — a dedicated section covers dbt model documentation, test generation, and lineage narratives."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "chart"
+  },
+  {
+    "id": "pp-005",
+    "slug": "founders-playbook-prompts",
+    "name": "Founder's Playbook Prompts",
+    "tagline": "150 strategy prompts for positioning, pricing, and growth bets",
+    "category": "prompt-packs",
+    "price": 39,
+    "formats": [
+      "Markdown",
+      "Notion"
+    ],
+    "fileSize": "640 KB",
+    "tags": [
+      "strategy",
+      "startup",
+      "positioning",
+      "pricing",
+      "growth"
+    ],
+    "keywords": [
+      "founder ai prompts",
+      "startup strategy prompt pack",
+      "pricing prompt library",
+      "positioning workshop prompts"
+    ],
+    "description": "A strategy war-room in a box. 150 prompts structured around the decisions that actually move startups: positioning against incumbents, pricing experiments, churn autopsies, and launch sequencing. Each prompt forces the AI to argue both sides before recommending.",
+    "features": [
+      "150 prompts across positioning, pricing, growth, ops, and fundraising",
+      "Red-team pattern: every recommendation is pressure-tested against a counter-argument",
+      "Pricing experiment generator with willingness-to-pay interview scripts",
+      "Churn autopsy workflow that turns exit notes into hypotheses",
+      "Launch sequencer for 30-60-90 day rollouts"
+    ],
+    "includes": [
+      "Prompt library (Markdown + Notion)",
+      "Red-team worksheet pack",
+      "Pricing experiment canvas",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Is this for solo founders or teams?",
+        "a": "Both. Solo founders use it as a thinking partner; teams run the prompts in workshops with one person facilitating."
+      },
+      {
+        "q": "Does it give financial advice?",
+        "a": "No. It structures decisions and surfaces trade-offs; your accountant and lawyer keep their jobs."
+      },
+      {
+        "q": "How often is it updated?",
+        "a": "Quarterly, plus ad-hoc drops when a major framework (e.g., a new pricing model) emerges."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "doc"
+  },
+  {
+    "id": "pp-006",
+    "slug": "social-velocity-pack",
+    "name": "Social Velocity Pack",
+    "tagline": "240 short-form prompts for X, TikTok, LinkedIn, and Reels",
+    "category": "prompt-packs",
+    "price": 21,
+    "formats": [
+      "Markdown",
+      "JSON",
+      "Airtable"
+    ],
+    "fileSize": "890 KB",
+    "tags": [
+      "social media",
+      "short-form",
+      "linkedin",
+      "tiktok",
+      "hooks"
+    ],
+    "keywords": [
+      "social media prompt pack",
+      "short form video script prompts",
+      "linkedin post generator prompts",
+      "hook writing ai prompts"
+    ],
+    "description": "240 prompts for the scroll-stopping layer of your brand: hooks, thread structures, carousels, video scripts, and platform-native CTAs. Includes a hook A/B generator and a trending-audio adaptation workflow for short-form video.",
+    "features": [
+      "240 prompts across X, LinkedIn, TikTok, Reels, and YouTube Shorts",
+      "Hook A/B generator with curiosity-gap scoring",
+      "Thread and carousel structure templates (5 proven arcs)",
+      "Short-form video scripts with 3-second openers and loop logic",
+      "Trending-audio adaptation workflow"
+    ],
+    "includes": [
+      "Prompt library (Markdown + JSON + Airtable base)",
+      "Hook swipe file (200 examples)",
+      "Carousel blueprint pack",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Do prompts stay current with platform algorithm changes?",
+        "a": "The pack is versioned and updated quarterly; v4.0 was rebuilt for the 2026 ranking shifts on LinkedIn and TikTok."
+      },
+      {
+        "q": "Can I generate a whole month of content?",
+        "a": "Yes — the calendar mode takes your themes and outputs 20 posts with hooks, bodies, and CTAs, ready for scheduling."
+      },
+      {
+        "q": "Is it useful for B2B?",
+        "a": "The LinkedIn arcs focus on expertise-led positioning, which may suit consultants and other B2B writers."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "feed"
+  },
+  {
+    "id": "pp-007",
+    "slug": "legal-lens-prompt-suite",
+    "name": "Legal Lens Prompt Suite",
+    "tagline": "120 prompts for contracts, policies, and compliance drafts",
+    "category": "prompt-packs",
+    "price": 35,
+    "formats": [
+      "Markdown",
+      "DOCX"
+    ],
+    "fileSize": "540 KB",
+    "tags": [
+      "legal",
+      "contracts",
+      "compliance",
+      "privacy",
+      "policies"
+    ],
+    "keywords": [
+      "legal prompt pack",
+      "contract drafting ai prompts",
+      "privacy policy prompt library",
+      "compliance checklist prompts"
+    ],
+    "description": "A careful assistant for the paperwork side of business: 120 prompts for drafting and reviewing contracts, privacy policies, terms of service, and compliance checklists. Every prompt includes a jurisdiction slot and a mandatory 'verify with counsel' gate so AI drafts, humans decide.",
+    "features": [
+      "120 prompts across contracts, policies, compliance, and review",
+      "Jurisdiction-aware drafting slots (US, EU, UK, BR, ID)",
+      "Plain-English simplification pass for any legal document",
+      "Risk-flag review checklist with severity tiers",
+      "Redline generator comparing two document versions"
+    ],
+    "includes": [
+      "Prompt library (Markdown + DOCX starter templates)",
+      "Jurisdiction slot reference card",
+      "Risk-flag checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does this replace a lawyer?",
+        "a": "No, and the pack says so inside every prompt. It accelerates drafts and first-pass reviews; a licensed attorney must sign off."
+      },
+      {
+        "q": "Which jurisdictions are covered?",
+        "a": "US (federal + CA/NY/TX), EU GDPR, UK, Brazil (LGPD), and Indonesia (PDP Law). The slot system extends to others on request."
+      },
+      {
+        "q": "Can I use it for client deliverables?",
+        "a": "The Extended License covers law-firm and consultancy use with unlimited client matters."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "doc"
+  },
+  {
+    "id": "pp-008",
+    "slug": "academic-author-pack",
+    "name": "Academic Author Pack",
+    "tagline": "200 prompts for papers, lit reviews, and grant proposals",
+    "category": "prompt-packs",
+    "price": 26,
+    "formats": [
+      "Markdown",
+      "LaTeX",
+      "Notion"
+    ],
+    "fileSize": "820 KB",
+    "tags": [
+      "academic",
+      "research",
+      "writing",
+      "papers",
+      "grants"
+    ],
+    "keywords": [
+      "academic writing prompts",
+      "literature review prompt pack",
+      "grant proposal ai prompts",
+      "research paper outline prompts"
+    ],
+    "description": "From blank page to submission-ready manuscript: 200 prompts for structuring papers, synthesizing literature, tightening abstracts, and writing grant proposals. Includes citation-discipline guards that keep AI assistance inside academic integrity norms.",
+    "features": [
+      "200 prompts for papers, lit reviews, abstracts, and grants",
+      "IMRaD structure generator with section-by-section coaching",
+      "Literature synthesis matrix prompt (themes × methods × findings)",
+      "Abstract tightener with word-count ladders (250/150/100 words)",
+      "Citation-discipline guardrails that flag unsupported claims"
+    ],
+    "includes": [
+      "Prompt library (Markdown + LaTeX + Notion)",
+      "Lit-review synthesis matrix",
+      "Grant proposal outline templates",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Is using this academic dishonesty?",
+        "a": "It depends on your institution's rules. The pack is designed for planning, structuring, and editing — and its guards discourage passing AI text off as original research."
+      },
+      {
+        "q": "Does it support LaTeX?",
+        "a": "Yes — templates and prompts emit LaTeX-ready structures for sections, tables, and bibliographies."
+      },
+      {
+        "q": "Works for non-English journals?",
+        "a": "Yes. A translation-and-register prompt adapts drafts to the conventions of English-medium journals while preserving your meaning."
+      }
+    ],
+    "accent": "#8b5cf6",
+    "mock": "doc"
+  }
+]

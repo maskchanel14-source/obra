@@ -1,0 +1,17 @@
+{
+  "project": "Obra Market",
+  "targetPages": 100,
+  "generatedPages": 100,
+  "progress": "100/100 generated",
+  "generationStatus": "complete",
+  "deploymentStatus": "not verified by local build",
+  "supabaseStatus": "not configured",
+  "builtAt": "2026-10-18",
+  "counts": {
+    "home": 1,
+    "collections": 10,
+    "productPreviews": 75,
+    "guides": 8,
+    "utility": 6
+  }
+}

@@ -1,0 +1,390 @@
+[
+  {
+    "id": "ip-001",
+    "slug": "cinematic-portrait-styles",
+    "name": "Cinematic Portrait Styles",
+    "tagline": "60 film-grade portrait recipes for AI models",
+    "category": "image-style-packs",
+    "price": 39,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "6 MB",
+    "tags": [
+      "midjourney",
+      "flux",
+      "portraits",
+      "style pack",
+      "prompts"
+    ],
+    "keywords": [
+      "ai portrait style pack",
+      "cinematic portrait prompts",
+      "midjourney portrait styles",
+      "flux portrait recipes"
+    ],
+    "description": "Sixty cinematic portrait recipes with lighting diagrams, lens language, and exact prompt strings. Consistency techniques for characters across shots included.",
+    "features": [
+      "60 portrait recipes across 10 moods",
+      "Lighting diagrams for each style",
+      "Lens and film-stock language library",
+      "Character consistency workflow",
+      "Negative prompt bank (150 entries)"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Lighting diagram pack",
+      "Character consistency guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which models?",
+        "a": "Prompt concepts are drafted for Flux, Midjourney, and SDXL; verify settings and results with your own model versions."
+      },
+      {
+        "q": "Commercial rights?",
+        "a": "Style recipes are uncopyrightable; our license grants full commercial use of outputs."
+      },
+      {
+        "q": "Real people likeness?",
+        "a": "The pack is for original characters and consented subjects only — ethics guide included."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-002",
+    "slug": "product-shot-director-pack",
+    "name": "Product Shot Director Pack",
+    "tagline": "Studio-quality product photos from a prompt",
+    "category": "image-style-packs",
+    "price": 47,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "7 MB",
+    "tags": [
+      "product photography",
+      "midjourney",
+      "flux",
+      "ecommerce"
+    ],
+    "keywords": [
+      "ai product photography prompts",
+      "product shot style pack",
+      "ecommerce image prompts",
+      "studio product photo ai"
+    ],
+    "description": "A director's playbook for AI product photography: 70 shots across white-seamless, lifestyle, macro, and packshot styles, with camera math and surface recipes.",
+    "features": [
+      "70 product shot recipes across 7 styles",
+      "Camera math: focal length, f-stop, distance",
+      "Surface and backdrop recipes (12 materials)",
+      "Reflection control techniques",
+      "Batch-consistency workflow for catalogs"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Surface recipe cards",
+      "Batch workflow guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it replace a product photographer?",
+        "a": "For catalogs and marketplaces, often yes; hero shots for luxury goods, still hire a pro."
+      },
+      {
+        "q": "Can I match my existing brand shots?",
+        "a": "The consistency workflow reverse-engineers your current look into reusable seeds."
+      },
+      {
+        "q": "Marketplace safe?",
+        "a": "Yes — Amazon/eBay compliance notes included (no misleading contexts)."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-003",
+    "slug": "anime-cel-shading-pack",
+    "name": "Anime Cel Shading Pack",
+    "tagline": "55 styles from Ghibli-soft to cyberpunk neon",
+    "category": "image-style-packs",
+    "price": 29,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "5 MB",
+    "tags": [
+      "anime",
+      "cel shading",
+      "midjourney",
+      "style pack"
+    ],
+    "keywords": [
+      "anime prompt pack",
+      "cel shading ai prompts",
+      "anime style guide",
+      "manga style prompts"
+    ],
+    "description": "Fifty-five anime and cel-shading styles with era references, color scripts, and line-weight controls. From painterly Ghibli softness to hard neon cyberpunk.",
+    "features": [
+      "55 styles with era and studio references",
+      "Color scripts per style (palettes included)",
+      "Line-weight and shading controls",
+      "Character sheet consistency workflow",
+      "Background style separators"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Palette library (55 swatches)",
+      "Consistency guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Legal to sell outputs?",
+        "a": "Styles themselves aren't copyrightable; avoid living artists' names in prompts — the pack uses descriptive language."
+      },
+      {
+        "q": "Which model is best?",
+        "a": "Niji-style models and Flux Dev both shine; recipes list both parameter sets."
+      },
+      {
+        "q": "Good for game art?",
+        "a": "Yes — the character sheet workflow targets sprite-consistent outputs."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-004",
+    "slug": "isometric-world-builder",
+    "name": "Isometric World Builder",
+    "tagline": "40 isometric scenes for games and explainers",
+    "category": "image-style-packs",
+    "price": 34,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "4 MB",
+    "tags": [
+      "isometric",
+      "illustration",
+      "game art",
+      "style pack"
+    ],
+    "keywords": [
+      "isometric prompt pack",
+      "isometric illustration ai",
+      "game asset prompts",
+      "isometric world prompts"
+    ],
+    "description": "Forty isometric scenes — cafés, datacenters, farms, spaceports — with palette locks and grid logic so scenes compose into one coherent world.",
+    "features": [
+      "40 scene recipes with palette locks",
+      "Grid and camera-angle consistency rules",
+      "Tile-set approach for modular worlds",
+      "Explainer-video shot list templates",
+      "Seasonal variants for 8 hero scenes"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Palette lock library",
+      "Shot list templates",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Use for marketing explainers?",
+        "a": "That's the most common use — the shot lists map to 60-second scripts."
+      },
+      {
+        "q": "Can scenes connect?",
+        "a": "Yes — the tile-set method builds one coherent world from modular scenes."
+      },
+      {
+        "q": "Export as sprites?",
+        "a": "Prompt guidance includes tile-friendly framing for game use."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-005",
+    "slug": "retro-film-grain-collection",
+    "name": "Retro Film Grain Collection",
+    "tagline": "45 analog film emulations for digital shots",
+    "category": "image-style-packs",
+    "price": 26,
+    "formats": [
+      "Prompt sheet",
+      "LUTs",
+      "PDF"
+    ],
+    "fileSize": "36 MB",
+    "tags": [
+      "film",
+      "vintage",
+      "grain",
+      "lut",
+      "style pack"
+    ],
+    "keywords": [
+      "film emulation prompts",
+      "retro photo ai prompts",
+      "film grain lut pack",
+      "analog style prompts"
+    ],
+    "description": "Forty-five analog emulations — Portra warmth, Tri-X grain, expired cinema — with prompt strings plus LUTs for real photos. Hybrid workflow included.",
+    "features": [
+      "45 film emulation recipes",
+      "LUT pack for real-photo grading",
+      "Grain and halation controls",
+      "Era-accurate color scripts",
+      "Hybrid AI + photo workflow"
+    ],
+    "includes": [
+      "Prompt sheets + 45 LUTs",
+      "Grain overlay set",
+      "Hybrid workflow guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Do the LUTs work in Lightroom?",
+        "a": "Yes — .xmp presets and .cube LUTs ship together."
+      },
+      {
+        "q": "AI-only use?",
+        "a": "The prompt sheets work standalone; LUTs are for blending AI renders with real shots."
+      },
+      {
+        "q": "Video support?",
+        "a": "LUTs are frame-agnostic — they grade video identically."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-006",
+    "slug": "arch-viz-style-pack",
+    "name": "Architectural Viz Style Pack",
+    "tagline": "35 styles from moody dusk to crisp noon",
+    "category": "image-style-packs",
+    "price": 42,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "5 MB",
+    "tags": [
+      "architecture",
+      "archviz",
+      "interior",
+      "style pack"
+    ],
+    "keywords": [
+      "architectural visualization prompts",
+      "archviz ai style pack",
+      "interior render prompts",
+      "architecture image prompts"
+    ],
+    "description": "Thirty-five architectural visualization styles with camera-lens language, material prompts, and light-temperature recipes. Interior and exterior sets.",
+    "features": [
+      "35 styles: 20 exterior, 15 interior",
+      "Lens language (14mm–85mm guidance)",
+      "Material prompt bank (concrete, oak, brass…)",
+      "Light-temperature recipes by hour",
+      "Human-scale reference figures"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Material prompt bank",
+      "Hour-of-light reference chart",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "For real estate marketing?",
+        "a": "Exactly — the pack includes staging and twilight-exterior recipes agents love."
+      },
+      {
+        "q": "Accuracy concerns?",
+        "a": "Architectural proportions guidance reduces the classic melting-room problem."
+      },
+      {
+        "q": "Works with ControlNet?",
+        "a": "Yes — depth-map guidance steps are in the workflow chapter."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  },
+  {
+    "id": "ip-007",
+    "slug": "character-design-stylebook",
+    "name": "Character Design Stylebook",
+    "tagline": "50 character concepts with turnarounds",
+    "category": "image-style-packs",
+    "price": 45,
+    "formats": [
+      "Prompt sheet",
+      "PDF"
+    ],
+    "fileSize": "6 MB",
+    "tags": [
+      "character design",
+      "concept art",
+      "style pack",
+      "prompts"
+    ],
+    "keywords": [
+      "character design prompt pack",
+      "ai character stylebook",
+      "concept art prompts",
+      "character turnaround prompts"
+    ],
+    "description": "Fifty character archetypes with turnarounds, expression sheets, and silhouette checks — a concept artist's prompt library for games and animation.",
+    "features": [
+      "50 archetypes with silhouette analysis",
+      "Turnaround prompting (front/side/back)",
+      "Expression sheet recipes",
+      "Costume and palette systems",
+      "Style fusion matrix (mix any two)"
+    ],
+    "includes": [
+      "Prompt sheets (Markdown + PDF)",
+      "Silhouette worksheet",
+      "Style fusion matrix",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Consistent character across images?",
+        "a": "A turnaround workflow and seed discipline may help improve consistency; an optional LoRA workflow is described as a concept."
+      },
+      {
+        "q": "Kid-friendly styles?",
+        "a": "20 of the 50 archetypes are flat/vector styles safe for all ages."
+      },
+      {
+        "q": "Game-ready sheets?",
+        "a": "Turnarounds and expressions map to standard concept-art deliverables."
+      }
+    ],
+    "accent": "#6366f1",
+    "mock": "image"
+  }
+]

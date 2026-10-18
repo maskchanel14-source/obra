@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "prompt-packs",
+    "name": "AI Prompt Packs",
+    "tagline": "Copy-and-paste prompt libraries for more consistent AI output",
+    "description": "Concept outlines for copywriting, SEO, analysis, and creative work. Model notes and usage playbooks should be validated before a commercial launch.",
+    "accent": "#8b5cf6",
+    "icon": "spark",
+    "sortOrder": 1
+  },
+  {
+    "slug": "agent-skills",
+    "name": "Agent Skills",
+    "tagline": "Drop-in skills that supercharge Claude Code, Codex, and Cursor",
+    "description": "Portable agent skills with SKILL.md manifests, reference docs, and eval suites. Install in one command and let your coding agent do the heavy lifting.",
+    "accent": "#06b6d4",
+    "icon": "terminal",
+    "sortOrder": 2
+  },
+  {
+    "slug": "notion-templates",
+    "name": "Notion Templates",
+    "tagline": "Operating systems for your work, not just documents",
+    "description": "Deeply-structured Notion systems with databases, dashboards, and automations. Duplicate in one click and make it yours.",
+    "accent": "#f59e0b",
+    "icon": "layers",
+    "sortOrder": 3
+  },
+  {
+    "slug": "code-boilerplates",
+    "name": "Code Boilerplates",
+    "tagline": "Production-grade starters. Ship weeks faster.",
+    "description": "Full-stack starters with auth, billing, CI, and testing wired up. Clean architecture, documented, and maintained through 2026.",
+    "accent": "#10b981",
+    "icon": "code",
+    "sortOrder": 4
+  },
+  {
+    "slug": "design-assets",
+    "name": "Design Assets",
+    "tagline": "Icon suites, gradients, illustrations, and motion kits",
+    "description": "Pixel-perfect design assets in Figma, SVG, and Lottie formats. Built on consistent grids and licensed for commercial work.",
+    "accent": "#ec4899",
+    "icon": "palette",
+    "sortOrder": 5
+  },
+  {
+    "slug": "automation-scripts",
+    "name": "Automation Scripts",
+    "tagline": "n8n, Zapier, and Make workflows that run your ops",
+    "description": "Importable automations for lead routing, reporting, inbox zero, and CRM sync. Self-hosted friendly, with setup video walkthroughs.",
+    "accent": "#f97316",
+    "icon": "bolt",
+    "sortOrder": 6
+  },
+  {
+    "slug": "image-style-packs",
+    "name": "AI Image Style Packs",
+    "tagline": "Signature looks for Midjourney, Flux, and SDXL",
+    "description": "Curated style recipes with prompt formulas, negative prompts, and parameter presets. Consistent, brandable aesthetics on demand.",
+    "accent": "#6366f1",
+    "icon": "image",
+    "sortOrder": 7
+  },
+  {
+    "slug": "spreadsheet-dashboards",
+    "name": "Spreadsheet Dashboards",
+    "tagline": "Google Sheets dashboards that feel like BI tools",
+    "description": "Formula-driven dashboards with clean charts, KPI tracking, and zero plugins. Duplicate, paste your data, and decide faster.",
+    "accent": "#14b8a6",
+    "icon": "grid",
+    "sortOrder": 8
+  },
+  {
+    "slug": "landing-page-templates",
+    "name": "Landing Page Templates",
+    "tagline": "Conversion-aware layouts to adapt for a launch",
+    "description": "HTML/CSS landing-page concepts organized around familiar messaging patterns. Review the code, performance, and claims before using them in a live campaign.",
+    "accent": "#e11d48",
+    "icon": "layout",
+    "sortOrder": 9
+  },
+  {
+    "slug": "api-toolkits",
+    "name": "API & Dev Toolkits",
+    "tagline": "SDKs, wrapper kits, and integration scaffolding",
+    "description": "Concept client kits and boilerplate outlines for Stripe, OpenAI, GitHub, Supabase, and more. Compatibility and test coverage need to be verified before use.",
+    "accent": "#84cc16",
+    "icon": "plug",
+    "sortOrder": 10
+  }
+]

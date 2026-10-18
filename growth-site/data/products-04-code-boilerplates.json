@@ -1,0 +1,446 @@
+[
+  {
+    "id": "cb-001",
+    "slug": "saas-starter-stack",
+    "name": "SaaS Starter Stack",
+    "tagline": "Next.js SaaS with auth, billing, and teams wired up",
+    "category": "code-boilerplates",
+    "price": 149,
+    "formats": [
+      "Source code",
+      "Docker"
+    ],
+    "fileSize": "18 MB",
+    "tags": [
+      "nextjs",
+      "saas",
+      "auth",
+      "stripe",
+      "typescript"
+    ],
+    "keywords": [
+      "saas boilerplate 2026",
+      "nextjs saas starter",
+      "stripe auth boilerplate",
+      "saas template github"
+    ],
+    "description": "The fastest path from idea to first paying customer. Next.js 16, Auth.js sessions, Stripe subscriptions with teams, Postgres schema migrations, and a component library — all documented as a starter concept.",
+    "features": [
+      "Next.js 16 + TypeScript + Tailwind, zero config",
+      "Auth.js with magic link, OAuth, and session rotation",
+      "Stripe subscriptions, trials, and seat-based billing",
+      "Team accounts with roles and invites",
+      "CI pipeline: lint, typecheck, test, preview deploys"
+    ],
+    "includes": [
+      "Full source (MIT-licensed base)",
+      "Database schema + migration suite",
+      "Component-library concept covering common interface primitives",
+      "6 hours of architecture walkthrough videos",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "What's the stack?",
+        "a": "Next.js 16, TypeScript, Tailwind, Postgres (Prisma), Auth.js, Stripe, and Vercel-ready out of the box."
+      },
+      {
+        "q": "Can I use it for a client project?",
+        "a": "Yes with the Extended License, including white-labeling."
+      },
+      {
+        "q": "How long to first deploy?",
+        "a": "The setup guide outlines a path from configuration to a running preview."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-002",
+    "slug": "ai-app-scaffold",
+    "name": "AI App Scaffold",
+    "tagline": "LLM app boilerplate: RAG, streaming, and evals",
+    "category": "code-boilerplates",
+    "price": 129,
+    "formats": [
+      "Source code",
+      "Docker"
+    ],
+    "fileSize": "22 MB",
+    "tags": [
+      "ai",
+      "llm",
+      "rag",
+      "openai",
+      "typescript"
+    ],
+    "keywords": [
+      "llm app boilerplate",
+      "rag starter kit",
+      "ai app scaffold github",
+      "openai app template"
+    ],
+    "description": "A production scaffold for LLM apps: streaming chat UI, retrieval-augmented generation with pgvector, tool-calling patterns, token accounting, and an eval harness with 30 golden cases.",
+    "features": [
+      "Streaming chat UI with markdown and code rendering",
+      "RAG pipeline with pgvector and hybrid search",
+      "Tool-calling framework with 8 example tools",
+      "Token accounting and cost dashboards",
+      "Eval harness with 30 golden cases"
+    ],
+    "includes": [
+      "Full source + Docker compose",
+      "Eval harness and golden cases",
+      "Tool-calling cookbook",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which models are supported?",
+        "a": "OpenAI, Anthropic, and Google via a provider-agnostic adapter; swap with one env var."
+      },
+      {
+        "q": "Is RAG included or a stub?",
+        "a": "Fully implemented: ingestion, chunking, hybrid search, reranking, and citation rendering."
+      },
+      {
+        "q": "Can I ship it as a product?",
+        "a": "Yes — Extended License covers commercial products."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-003",
+    "slug": "chrome-extension-forge",
+    "name": "Chrome Extension Forge",
+    "tagline": "MV3 extension starter with options page and sync",
+    "category": "code-boilerplates",
+    "price": 59,
+    "formats": [
+      "Source code"
+    ],
+    "fileSize": "6 MB",
+    "tags": [
+      "chrome",
+      "extension",
+      "mv3",
+      "javascript"
+    ],
+    "keywords": [
+      "chrome extension boilerplate",
+      "mv3 extension starter",
+      "browser extension template",
+      "chrome extension code"
+    ],
+    "description": "Forge your next extension fast: Manifest V3, content scripts, options page with sync storage, service worker patterns, and a build pipeline that passes the Web Store review first try.",
+    "features": [
+      "Manifest V3 with declarative net request examples",
+      "Content script injection with isolated-world helpers",
+      "Options page + chrome.storage.sync state",
+      "Service worker lifecycle patterns",
+      "Web Store submission checklist and screenshots pack"
+    ],
+    "includes": [
+      "Full source + build pipeline",
+      "Store listing assets pack",
+      "Review-guidelines checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Firefox support?",
+        "a": "The same source builds for Firefox with a config flag; both manifests ship."
+      },
+      {
+        "q": "Is a build step required?",
+        "a": "Recommended (esbuild), but the src/ runs unpacked with no build for quick experiments."
+      },
+      {
+        "q": "Monetization help?",
+        "a": "Includes Stripe Checkout wiring examples for premium features."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-004",
+    "slug": "serverless-api-kit",
+    "name": "Serverless API Kit",
+    "tagline": "Edge functions, auth, and rate limits — pre-wired",
+    "category": "code-boilerplates",
+    "price": 79,
+    "formats": [
+      "Source code"
+    ],
+    "fileSize": "8 MB",
+    "tags": [
+      "serverless",
+      "edge",
+      "api",
+      "typescript",
+      "cloudflare"
+    ],
+    "keywords": [
+      "serverless api starter",
+      "edge functions boilerplate",
+      "api template typescript",
+      "rest api starter kit"
+    ],
+    "description": "A serverless API foundation on edge runtimes: JWT auth, rate limiting, validation with Zod, observability hooks, and a test suite that runs in seconds.",
+    "features": [
+      "Edge runtime handlers (Cloudflare Workers + Vercel)",
+      "JWT auth with refresh rotation",
+      "Token-bucket rate limiting per route",
+      "Zod schemas with OpenAPI generation",
+      "Observability: structured logs + error tracking"
+    ],
+    "includes": [
+      "Full source with two runtime adapters",
+      "OpenAPI generator config",
+      "Test suite (Vitest)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Can I use it with Supabase?",
+        "a": "Yes — an adapter swaps the auth layer to Supabase JWTs in one file."
+      },
+      {
+        "q": "Is it for REST or GraphQL?",
+        "a": "REST out of the box; a GraphQLYoga adapter is in the extras folder."
+      },
+      {
+        "q": "What about cold starts?",
+        "a": "The edge handlers start in under 5ms on major providers; benchmarks included."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-005",
+    "slug": "flutter-launchpad",
+    "name": "Mobile Flutter Launchpad",
+    "tagline": "Cross-platform app starter with auth and themes",
+    "category": "code-boilerplates",
+    "price": 99,
+    "formats": [
+      "Source code"
+    ],
+    "fileSize": "14 MB",
+    "tags": [
+      "flutter",
+      "mobile",
+      "dart",
+      "ios",
+      "android"
+    ],
+    "keywords": [
+      "flutter app template",
+      "flutter boilerplate 2026",
+      "cross platform starter",
+      "flutter auth template"
+    ],
+    "description": "A Flutter launchpad with clean architecture: feature-first folders, Riverpod state, theming, deep linking, and CI that builds both stores' artifacts.",
+    "features": [
+      "Feature-first clean architecture",
+      "Riverpod state + go_router navigation",
+      "Dynamic theming with dark mode",
+      "Deep linking and push notification setup",
+      "CI: lint, test, and store artifact builds"
+    ],
+    "includes": [
+      "Full source + flavors config",
+      "Theming system",
+      "CI workflows (GitHub Actions)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "iOS and Android from one codebase?",
+        "a": "Yes — the CI builds both, plus a macOS flavor as a bonus."
+      },
+      {
+        "q": "Backend included?",
+        "a": "A Supabase integration layer ships wired and ready."
+      },
+      {
+        "q": "Null-safe?",
+        "a": "Fully null-safe on stable Dart 3.x."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-006",
+    "slug": "design-system-blueprint",
+    "name": "Design System Blueprint",
+    "tagline": "Tokens, components, and docs — the whole machine",
+    "category": "code-boilerplates",
+    "price": 89,
+    "formats": [
+      "Source code",
+      "Figma"
+    ],
+    "fileSize": "11 MB",
+    "tags": [
+      "design system",
+      "tokens",
+      "components",
+      "storybook",
+      "css"
+    ],
+    "keywords": [
+      "design system boilerplate",
+      "design tokens starter",
+      "component library template",
+      "storybook starter"
+    ],
+    "description": "A design system skeleton: semantic tokens, a11y-tested primitives, Storybook docs, and a Figma library that mirrors the code. Extend it instead of reinventing it.",
+    "features": [
+      "Design tokens with semantic aliases (light/dark)",
+      "Component-library concept spanning common primitives such as buttons and dialogs",
+      "Storybook docs with controls and play functions",
+      "Figma library mapped to token names",
+      "Release automation with changesets"
+    ],
+    "includes": [
+      "Full source + Storybook config",
+      "Figma library file",
+      "Token pipeline (Style Dictionary)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Framework opinionated?",
+        "a": "Primitives are framework-neutral CSS + vanilla JS; React wrappers are included as an example."
+      },
+      {
+        "q": "Does the Figma file auto-sync?",
+        "a": "Tokens sync via Tokens Studio; the mapping guide is in the docs."
+      },
+      {
+        "q": "WCAG compliance?",
+        "a": "Primitives target AA contrast by default; axe tests run in CI."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-007",
+    "slug": "ecommerce-engine",
+    "name": "E-Commerce Engine",
+    "tagline": "Storefront starter with cart, checkout, and taxes",
+    "category": "code-boilerplates",
+    "price": 119,
+    "formats": [
+      "Source code",
+      "Docker"
+    ],
+    "fileSize": "16 MB",
+    "tags": [
+      "ecommerce",
+      "nextjs",
+      "stripe",
+      "shop",
+      "typescript"
+    ],
+    "keywords": [
+      "ecommerce boilerplate",
+      "nextjs storefront template",
+      "stripe checkout starter",
+      "shop starter code"
+    ],
+    "description": "A storefront engine with product catalog, cart, Stripe checkout, tax estimation, and order management. SEO-baked: JSON-LD, sitemaps, and image optimization out of the box.",
+    "features": [
+      "Catalog with variants, inventory, and search",
+      "Cart with persistent state and guest checkout",
+      "Stripe checkout + webhook-driven order states",
+      "Tax estimation via Stripe Tax",
+      "SEO layer: JSON-LD, sitemap, OG tags"
+    ],
+    "includes": [
+      "Full source + seed data",
+      "Docker compose for local dev",
+      "Admin order dashboard",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Digital products supported?",
+        "a": "Yes — fulfillment switches to instant download links, perfect for this very store pattern."
+      },
+      {
+        "q": "Headless or monolith?",
+        "a": "Headless-ready: a storefront API mode powers any front end."
+      },
+      {
+        "q": "Payment methods?",
+        "a": "Stripe cards, Apple/Google Pay, and Link by default."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  },
+  {
+    "id": "cb-008",
+    "slug": "cli-toolkit-foundation",
+    "name": "CLI Toolkit Foundation",
+    "tagline": "Build beautiful terminal tools, fast",
+    "category": "code-boilerplates",
+    "price": 49,
+    "formats": [
+      "Source code"
+    ],
+    "fileSize": "3 MB",
+    "tags": [
+      "cli",
+      "terminal",
+      "node",
+      "ink",
+      "typescript"
+    ],
+    "keywords": [
+      "cli boilerplate",
+      "terminal app starter",
+      "node cli template",
+      "ink cli scaffold"
+    ],
+    "description": "A CLI foundation with command registration, config files, spinners, prompts, update checks, and a plugin API. Ships with packaging for npm and Homebrew.",
+    "features": [
+      "Command registry with auto-generated help",
+      "Config loader (file + env + flags precedence)",
+      "Ink-based interactive UIs",
+      "Auto-update and telemetry opt-in",
+      "Packaging: npm, Homebrew tap, standalone binary"
+    ],
+    "includes": [
+      "Full source",
+      "Plugin API docs",
+      "Packaging scripts",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Node only?",
+        "a": "The core is Node; the patterns port to Go/Python — a porting guide is included."
+      },
+      {
+        "q": "Good for internal tools?",
+        "a": "That's exactly what it's for — several buyers wrap internal DevOps tools with it."
+      },
+      {
+        "q": "Testing included?",
+        "a": "Snapshot tests for CLI output and a golden-command suite."
+      }
+    ],
+    "accent": "#10b981",
+    "mock": "code"
+  }
+]

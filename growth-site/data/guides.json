@@ -1,0 +1,307 @@
+[
+  {
+    "slug": "ai-prompt-packs-for-content-teams",
+    "title": "A 2026 Guide to AI Prompt Packs for Content Teams",
+    "description": "How content teams use AI prompt packs in 2026: what separates a $9 prompt list from a real production system, and which packs actually ship.",
+    "keywords": [
+      "ai prompt packs",
+      "prompt pack for content teams",
+      "best ai prompt packs 2026",
+      "content team ai prompts"
+    ],
+    "sections": [
+      {
+        "h": "Why prompt packs became infrastructure",
+        "body": "In 2026 the question is no longer whether to use AI for content — it is whether your AI use is systematic. Teams that outperform use curated prompt libraries with brand-voice calibration, version control, and iteration loops. A prompt pack is the packaging of that system: prompts, playbooks, and guardrails in one installable bundle."
+      },
+      {
+        "h": "What to look for in a prompt pack",
+        "body": "Three things separate a pack worth paying for from a free list: structure (roles, context, constraints per prompt), model-tuning (temperature and system scaffolds per model), and maintenance (quarterly updates as models change). Avoid packs that are thin wrappers around 'write me a blog post'."
+      },
+      {
+        "h": "The copy pack that teams buy first",
+        "body": "A practical starting point may be conversion copy, where teams can measure outcomes such as opens, clicks, and time on page. The Conversion Copy Catalyst is a preview concept for a prompt collection across copy missions, with an optional rewrite ladder from polish to repositioning."
+      },
+      {
+        "h": "SEO prompts that compound",
+        "body": "Content teams with organic growth targets should pair a prompt pack with an SEO brief workflow. The SEO Content Engine Pack generates keyword clusters, briefs, and SERP-aware optimizations — and its calendar generator fits your publishing cadence."
+      },
+      {
+        "h": "Rollout playbook",
+        "body": "Start with one mission (e.g., weekly newsletters), calibrate brand voice in one session, and measure against your pre-AI baseline for four weeks. Then expand to the next mission. Teams that skip calibration see generic output and blame the model; teams that calibrate see compounding quality."
+      }
+    ],
+    "related": [
+      "conversion-copy-catalyst",
+      "seo-content-engine-pack",
+      "founders-playbook-prompts"
+    ]
+  },
+  {
+    "slug": "choose-notion-template-that-sticks",
+    "title": "How to Choose a Notion Template That Actually Sticks",
+    "description": "A practical framework for choosing Notion templates that fit your habits, with examples of different approaches to personal and team workflows.",
+    "keywords": [
+      "how to choose notion template",
+      "notion template that sticks",
+      "best notion templates 2026",
+      "notion setup guide"
+    ],
+    "sections": [
+      {
+        "h": "The week-two problem",
+        "body": "A common setup risk is choosing a template with more ceremony than your routine needs. A database can look useful at first and still become extra work if it does not match how you capture or review information."
+      },
+      {
+        "h": "The selection framework",
+        "body": "Score any template on four axes: setup time (under 30 minutes to first value), ceremony cost (how many clicks per routine action), adaptability (can you bend it without breaking it), and exit cost (can you leave without losing history). Anything scoring below 3/5 on ceremony cost is a liability."
+      },
+      {
+        "h": "Patterns to look for",
+        "body": "A template may be easier to maintain when it starts smaller than you expect. The Founder OS concept is designed to adapt from solo use to a small team. Habit Forge includes a minimum-viable-habit mode for rough weeks. Personal Knowledge Vault rewards five-minute capture sessions rather than demanding perfect notes."
+      },
+      {
+        "h": "Setup ritual that doubles stickiness",
+        "body": "Before customizing a template, try its default workflow for a few days and note where it adds friction. This helps distinguish a mismatch in the system from a setup detail that can be adjusted."
+      },
+      {
+        "h": "When to build instead of buy",
+        "body": "If several home-built systems have become difficult to maintain, compare a template against the routine you actually want to keep. A template is only useful if its recurring steps feel sustainable."
+      }
+    ],
+    "related": [
+      "founder-os",
+      "personal-knowledge-vault",
+      "habit-forge"
+    ]
+  },
+  {
+    "slug": "best-code-boilerplates-indie-saas",
+    "title": "How to Evaluate Code Boilerplates for Indie SaaS (2026)",
+    "description": "Auth and billing can take time away from a product’s distinct features. This guide outlines what to inspect in a boilerplate before adopting it.",
+    "keywords": [
+      "best code boilerplates 2026",
+      "indie saas boilerplate",
+      "nextjs saas starter",
+      "stripe auth boilerplate"
+    ],
+    "sections": [
+      {
+        "h": "The real cost of starting from scratch",
+        "body": "Auth, billing, teams, and CI are not differentiators for most SaaS products — but they consume 3–6 weeks. A boilerplate's value is not code; it is the weeks returned to product decisions that actually matter."
+      },
+      {
+        "h": "What a production-minded starter should include in 2026",
+        "body": "Type-safe end to end, tests that run in minutes, preview deploys on every PR, and a billing flow that survives real users (trials, upgrades, seat-based pricing, dunning emails). Anything missing one of these is a demo, not a foundation."
+      },
+      {
+        "h": "Boilerplate concepts to compare",
+        "body": "For TypeScript teams, the SaaS Starter Stack concept combines an application framework, authentication, billing, and team accounts. AI App Scaffold is a concept for products centered on LLM features such as retrieval and tool calling. Serverless API Kit outlines an edge-oriented API foundation. These preview descriptions are not implemented products; inspect actual code and tests before adopting a starter."
+      },
+      {
+        "h": "How to evaluate before you buy",
+        "body": "If you can inspect a repository, start with the authentication middleware, billing webhook handler, and CI configuration. Review tests and deployment instructions as well; a clean first impression is not a substitute for a full code review."
+      },
+      {
+        "h": "Migration and lock-in",
+        "body": "Licenses and telemetry vary by repository. Read the actual license file and inspect dependencies before using a starter. Prefer projects that let you remove optional services without rewriting core application logic."
+      }
+    ],
+    "related": [
+      "saas-starter-stack",
+      "ai-app-scaffold",
+      "serverless-api-kit"
+    ]
+  },
+  {
+    "slug": "building-agent-skill-stack",
+    "title": "Building an Agent Skill Stack: A Buyer's Guide",
+    "description": "Agent skills are the new plugins. Here is how to evaluate them, install them, and assemble a stack that makes Claude Code and Codex genuinely useful.",
+    "keywords": [
+      "agent skills guide",
+      "claude code skills",
+      "codex plugins",
+      "agent skill stack",
+      "SKILL.md"
+    ],
+    "sections": [
+      {
+        "h": "Skills vs. prompts vs. plugins",
+        "body": "A prompt is a one-off instruction. A plugin adds commands. A skill shapes behavior: it auto-loads when its intent matches, follows a tested workflow, and self-verifies against evals before declaring done. That last property — verifiable completion — is what makes skills trustworthy."
+      },
+      {
+        "h": "The evaluation checklist",
+        "body": "Before buying any skill: (1) Does it auto-trigger via its SKILL.md bootstrap, or must you remember to invoke it? (2) Does it ship evals — seeded scenarios with deterministic checks? (3) Is the behavior-shaping content documented, not vibes? Treat these as evaluation questions. The products shown alongside this guide are preview concepts; no skill files are included in this storefront."
+      },
+      {
+        "h": "The starter stack",
+        "body": "A starter stack can begin with three: Deep Research Agent Skill for inquiry workflows, Code Review Sentinel for merge hygiene, and Test Author Agent for coverage. Together, they span the analyze-review-verify loop."
+      },
+      {
+        "h": "Installation in one minute",
+        "body": "Drop the skill folder into your harness skills/ directory and restart. The bootstrap loads at session start; a clean session accepting the skill's trigger phrase is the acceptance test. Ask the publisher for an installation test and a clean-session transcript before buying or adopting a skill."
+      },
+      {
+        "h": "Where skills go next",
+        "body": "The 2026 pattern is skill compositions: research feeds review, review gates merge, tests verify the diff. Assemble composable skills, not monolithic agents, and your stack stays debuggable when behavior drifts."
+      }
+    ],
+    "related": [
+      "deep-research-agent-skill",
+      "code-review-sentinel",
+      "test-author-agent"
+    ]
+  },
+  {
+    "slug": "landing-page-templates-that-convert",
+    "title": "Landing Page Templates That Convert: 12 Design Patterns",
+    "description": "These 12 landing-page design patterns can help make value, evidence, and next steps easier to understand.",
+    "keywords": [
+      "landing page templates that convert",
+      "conversion landing page design",
+      "landing page patterns",
+      "high converting landing page"
+    ],
+    "sections": [
+      {
+        "h": "The conversion hierarchy",
+        "body": "A clear landing page often introduces the product and audience, explains the problem, provides relevant evidence, addresses objections, and repeats one primary call to action. Keeping the sequence coherent can make the value proposition easier to follow."
+      },
+      {
+        "h": "Pattern 1–4: the above-fold cluster",
+        "body": "One-liner with a outcome-in-headline formula ('Ship your SaaS in an afternoon', not 'All-in-one platform'). A sub-140-character supporting line. A CTA above the fold with contrasting weight. And a hero visual that shows the product, not abstract art."
+      },
+      {
+        "h": "Pattern 5–8: the trust cluster",
+        "body": "If you have permission, show customer logos and specific outcome evidence with context. Use genuine testimonials with attribution. Explain pricing clearly so visitors can assess fit."
+      },
+      {
+        "h": "Pattern 9–12: the decision cluster",
+        "body": "Comparison table against the status quo (including 'do nothing'). FAQ accordion covering the five real objections. An honest guarantee. And a final CTA band that repeats the headline promise, not 'Submit'."
+      },
+      {
+        "h": "Templates that implement all 12",
+        "body": "SaaS Launch Canvas is a concept layout built around this sequence. AI Product Debut Page adds a model-transparency section for AI products. Both are proposed as static HTML templates without builder lock-in."
+      }
+    ],
+    "related": [
+      "saas-launch-canvas",
+      "ai-product-debut-page",
+      "course-sales-page"
+    ]
+  },
+  {
+    "slug": "automating-freelance-client-work",
+    "title": "Automating Freelance Client Work with n8n",
+    "description": "A freelance admin loop — intake, contracts, invoicing, follow-ups — can be mapped into n8n workflows. Here is one way to approach the stack.",
+    "keywords": [
+      "freelance automation n8n",
+      "client workflow automation",
+      "invoicing automation n8n",
+      "freelance ops stack"
+    ],
+    "sections": [
+      {
+        "h": "A freelance admin loop",
+        "body": "Freelancers often handle recurring admin such as intake forms, contract dispatch, invoice reminders, and status reporting. These predictable tasks can be candidates for automation, provided the workflow includes review and exception handling."
+      },
+      {
+        "h": "Workflow 1: Intake to CRM",
+        "body": "A possible workflow starts with form intake, then optional enrichment, lead scoring, and routing to a CRM or spreadsheet. The Lead Gen Autopilot is a preview concept for this pattern; its integrations are not available in this storefront."
+      },
+      {
+        "h": "Workflow 2–3: Contracts and invoices",
+        "body": "Deal-stage changes generate the contract PDF, collect e-signature, then create the invoice on signature. Invoice Flow Automator implements quote-to-cash with a polite three-touch dunning sequence — gentle, effective, and never passive-aggressive."
+      },
+      {
+        "h": "Workflow 4: The Friday report",
+        "body": "A scheduled workflow compiles hours, invoices, and pipeline into a one-screen digest. Analytics Reporter Bot's digest pattern works for solo freelancers as well as teams."
+      },
+      {
+        "h": "Stack the workflows, then ignore them",
+        "body": "These workflows could share state so a closed deal initiates contract, invoice, and calendar steps. Before automating, test error handling and human approval points. Setup time and maintenance vary with the providers and data model."
+      }
+    ],
+    "related": [
+      "lead-gen-autopilot",
+      "invoice-flow-automator",
+      "analytics-reporter-bot"
+    ]
+  },
+  {
+    "slug": "ai-image-style-pack-guide",
+    "title": "AI Image Style Packs: From Prompt to Product Shot",
+    "description": "Style packs turn one-off generations into a repeatable visual system. How they work, what to check before buying, and some concepts in this preview catalog.",
+    "keywords": [
+      "ai image style pack",
+      "midjourney style prompts",
+      "product photography prompts",
+      "ai style guide"
+    ],
+    "sections": [
+      {
+        "h": "What a style pack actually is",
+        "body": "A style pack is a system of prompt recipes — lighting language, lens math, palette locks, and negative prompts — tuned to produce consistent aesthetics across generations. It is the difference between a lucky shot and a repeatable pipeline."
+      },
+      {
+        "h": "Consistency: the hard problem",
+        "body": "Character and catalog consistency come from three levers: seed discipline, structured prompting (subject → environment → lighting → lens), and post-hoc variation workflows. Packs that skip these sell vibes; packs that teach them sell systems."
+      },
+      {
+        "h": "Concepts to compare",
+        "body": "For ecommerce, Product Shot Director Pack is designed around 70 recipes with camera math and a batch-consistency workflow for catalogs. Cinematic Portrait Styles is a concept for people-focused work, with lighting diagrams and a character-consistency method. Architectural Viz Style Pack focuses on staged interiors with hour-of-light recipes."
+      },
+      {
+        "h": "Ethics and disclosure",
+        "body": "Style recipes are uncopyrightable, but describe styles rather than invoking living artists by name. For real people, obtain consent. Marketplaces increasingly require AI-content disclosure — every pack ships with a compliance note."
+      },
+      {
+        "h": "Hybrid workflows",
+        "body": "The highest-leverage pattern blends AI and photography: generate backgrounds and lighting references, shoot the product, composite. The Retro Film Grain Collection ships LUTs precisely for this blend."
+      }
+    ],
+    "related": [
+      "product-shot-director-pack",
+      "cinematic-portrait-styles",
+      "arch-viz-style-pack"
+    ]
+  },
+  {
+    "slug": "spreadsheet-dashboards-first-time-founders",
+    "title": "Spreadsheet Dashboards for First-Time Founders",
+    "description": "Before you buy a BI tool, build the dashboard that answers your five weekly questions. A Google Sheets starter plus the metrics that matter.",
+    "keywords": [
+      "founder dashboard spreadsheet",
+      "google sheets dashboard template",
+      "startup metrics dashboard",
+      "kpi dashboard for startups"
+    ],
+    "sections": [
+      {
+        "h": "Five questions, one dashboard",
+        "body": "A founder dashboard exists to answer five weekly questions: Where is cash going? What is growing? What is breaking? What should I do Monday? What do investors ask? If a dashboard does not answer these, it is decoration."
+      },
+      {
+        "h": "Why Sheets before BI",
+        "body": "At pre-seed, your data lives in Sheets, Stripe, and a product analytics tool. A BI stack adds governance overhead you do not need yet. A well-built Sheets dashboard can answer many early questions and help define the metrics you may formalize later."
+      },
+      {
+        "h": "The metrics that matter",
+        "body": "Cash runway (always), MRR and churn (if subscription), CAC and activation (if growth-stage), and one north-star metric chosen per quarter. Marketing Metrics Command tracks channel-level CAC and ROAS; Startup Financial Model handles runway and scenarios with full three-statement rigor."
+      },
+      {
+        "h": "Build order in one afternoon",
+        "body": "Import last 90 days of data, define five metrics in a dictionary sheet, build the readout charts, then add anomaly bands (2-sigma) so surprises surface without daily review. A dashboard template can include sample data to illustrate the intended layout; this catalog preview does not include a downloadable workbook."
+      },
+      {
+        "h": "When to graduate",
+        "body": "When your team exceeds five people or your data sources exceed four, move to a warehouse + BI stack. Until then, the dashboard that updates in ten minutes weekly beats the one that took a month to deploy."
+      }
+    ],
+    "related": [
+      "marketing-metrics-command",
+      "startup-financial-model",
+      "kpi-executive-dashboard"
+    ]
+  }
+]

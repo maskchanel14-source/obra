@@ -1,0 +1,17 @@
+{
+  "name": "obra-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Obra Store — 100-page programmatic SEO digital product store (static, zero-dependency)",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-store.mjs",
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate-store.mjs",
+    "sync:supabase": "node scripts/sync-supabase.mjs",
+    "dev": "node scripts/dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

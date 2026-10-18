@@ -1,0 +1,446 @@
+[
+  {
+    "id": "sk-001",
+    "slug": "deep-research-agent-skill",
+    "name": "Deep Research Agent Skill",
+    "tagline": "Multi-source research reports your agent writes for you",
+    "category": "agent-skills",
+    "price": 49,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "340 KB",
+    "tags": [
+      "claude code",
+      "research",
+      "agent skill",
+      "codex",
+      "cursor"
+    ],
+    "keywords": [
+      "claude code research skill",
+      "deep research agent",
+      "codex research plugin",
+      "agent skill for reports"
+    ],
+    "description": "Install a research analyst into your coding agent. Deep Research Agent Skill plans an inquiry, fans out across sources, scores evidence quality, and compiles a cited report — all from a single prompt inside Claude Code, Codex, or Cursor.",
+    "features": [
+      "Auto-triggers on research intents via SKILL.md bootstrap",
+      "Source fan-out with credibility scoring and deduplication",
+      "Citation ledger with quote-level provenance",
+      "Structured report output: TL;DR, findings, caveats, next steps",
+      "Eval suite with 12 graded research scenarios"
+    ],
+    "includes": [
+      "SKILL.md manifest + 7 reference docs",
+      "Citation ledger template",
+      "Eval suite (12 scenarios with deterministic checks)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which harnesses does it support?",
+        "a": "Claude Code, Codex, Cursor, OpenCode, and any harness that scans a skills/ directory. Install by dropping the folder in and restarting."
+      },
+      {
+        "q": "Does it browse the web?",
+        "a": "It uses your agent's existing web tools. If none are present, it degrades gracefully to local-file research."
+      },
+      {
+        "q": "How is this different from a prompt?",
+        "a": "A skill shapes behavior across sessions: it auto-loads, follows a tested workflow, and self-checks against evals before declaring done."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "terminal"
+  },
+  {
+    "id": "sk-002",
+    "slug": "code-review-sentinel",
+    "name": "Code Review Sentinel",
+    "tagline": "PR review skill that catches bugs before merge",
+    "category": "agent-skills",
+    "price": 44,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "290 KB",
+    "tags": [
+      "code review",
+      "pull requests",
+      "claude code",
+      "security"
+    ],
+    "keywords": [
+      "ai code review skill",
+      "pr review agent",
+      "claude code review plugin",
+      "automated code review skill"
+    ],
+    "description": "A senior-reviewer behavior for your agent: scans diffs for correctness bugs, security smells, and performance traps, then posts review comments ranked by severity with suggested patches. Ships with a red-flags table organized around common review concerns.",
+    "features": [
+      "Severity-ranked findings with inline suggested patches",
+      "Red-flags table concept organized around common review concerns",
+      "Security smells detector (authz, injection, secrets, deps)",
+      "Diff-aware: reviews only what changed, with file context",
+      "Eval suite with 20 seeded PRs and known findings"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Red-flags pattern table",
+      "Eval suite (20 seeded PRs)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it block merges?",
+        "a": "No — it advises. Findings are ranked so you can gate on 'critical' in your CI if you choose."
+      },
+      {
+        "q": "Works with GitHub Actions?",
+        "a": "Yes. Point any agent at the PR diff; the skill formats output as review comments."
+      },
+      {
+        "q": "Language support?",
+        "a": "Best on TypeScript, Python, Go, and Ruby; pattern table covers JS/TS most deeply."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "terminal"
+  },
+  {
+    "id": "sk-003",
+    "slug": "seo-auditor-skill",
+    "name": "SEO Auditor Skill",
+    "tagline": "Site audits your agent runs on demand",
+    "category": "agent-skills",
+    "price": 47,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "310 KB",
+    "tags": [
+      "seo",
+      "audit",
+      "claude code",
+      "technical seo"
+    ],
+    "keywords": [
+      "seo audit agent skill",
+      "technical seo automation",
+      "claude code seo plugin",
+      "site audit ai skill"
+    ],
+    "description": "Turn your agent into an SEO auditor. It crawls sitemaps, checks Core Web Vitals signals, validates structured data, and produces a prioritized fix-list with the exact code edits to apply.",
+    "features": [
+      "Sitemap crawl with broken-link and redirect-chain detection",
+      "Structured-data validator for Product, Article, FAQ schemas",
+      "Meta and heading hierarchy audit with rewrite suggestions",
+      "Prioritized fix-list: impact × effort scoring",
+      "Eval suite with 10 seeded sites"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Schema validator rulebook",
+      "Fix-list template",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it replace Screaming Frog?",
+        "a": "It is designed for focused audits on small-to-mid sites; large crawls are better handled alongside a dedicated crawler."
+      },
+      {
+        "q": "Can it apply fixes itself?",
+        "a": "Yes — findings ship as actionable edits your agent can implement after your approval."
+      },
+      {
+        "q": "How often should I run it?",
+        "a": "Weekly for active sites; the skill tracks delta against the previous run."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "terminal"
+  },
+  {
+    "id": "sk-004",
+    "slug": "content-repurposer-skill",
+    "name": "Content Repurposer Skill",
+    "tagline": "One asset in, ten formats out",
+    "category": "agent-skills",
+    "price": 38,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "260 KB",
+    "tags": [
+      "content",
+      "repurposing",
+      "social",
+      "agent skill"
+    ],
+    "keywords": [
+      "content repurposing ai skill",
+      "blog to social agent",
+      "content atomization skill",
+      "claude code content plugin"
+    ],
+    "description": "Atomize any long-form asset into a campaign: threads, carousels, short videos, newsletters, and ad angles — each with platform-native formatting and a 30-day distribution calendar.",
+    "features": [
+      "1-to-10 atomization: blog → thread, carousel, script, email, ads",
+      "Platform-native formatters for X, LinkedIn, TikTok, YouTube",
+      "Hook extractor that finds the 5 sharpest angles in any piece",
+      "30-day distribution calendar generator",
+      "Eval suite with 8 seeded assets"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Hook extractor reference",
+      "Calendar template",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "What inputs does it take?",
+        "a": "Paste text, a URL your agent can fetch, or point it at a local file — Markdown, HTML, or transcript."
+      },
+      {
+        "q": "Does it keep my voice?",
+        "a": "Yes — a voice-lock step samples your writing first and constrains every output to it."
+      },
+      {
+        "q": "Can agencies use it?",
+        "a": "The Extended License covers unlimited client accounts."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "feed"
+  },
+  {
+    "id": "sk-005",
+    "slug": "data-viz-craftsman-skill",
+    "name": "Data Viz Craftsman Skill",
+    "tagline": "Charts your agent designs, not just renders",
+    "category": "agent-skills",
+    "price": 42,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "300 KB",
+    "tags": [
+      "charts",
+      "visualization",
+      "d3",
+      "design",
+      "agent skill"
+    ],
+    "keywords": [
+      "data visualization agent skill",
+      "chart design skill",
+      "d3 chart generator",
+      "ai dashboard charts"
+    ],
+    "description": "A design critic for your charts. The skill selects the right chart type, enforces a visual hierarchy, applies accessible color scales, and outputs production-ready SVG or Canvas code.",
+    "features": [
+      "Chart-type recommender based on data shape and question",
+      "Accessible palettes (colorblind-safe, WCAG AA contrast)",
+      "Code output for D3, Chart.js, Recharts, and native SVG",
+      "Annotation layer: callouts, trend lines, and highlights",
+      "Eval suite with 10 datasets and target visuals"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Palette library (24 accessible scales)",
+      "Chart selection cheat sheet",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which charting libraries?",
+        "a": "D3, Chart.js, Recharts, ECharts, and plain SVG — pick your stack and the skill codes to it."
+      },
+      {
+        "q": "Does it handle time series well?",
+        "a": "Yes, including dual-axis guidance and seasonality annotations."
+      },
+      {
+        "q": "Is it useful for dashboards?",
+        "a": "It's designed for them — multiple charts get consistent scales and a shared legend system."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "chart"
+  },
+  {
+    "id": "sk-006",
+    "slug": "email-outreach-operative",
+    "name": "Email Outreach Operative",
+    "tagline": "Cold email skill with reply-rate instincts",
+    "category": "agent-skills",
+    "price": 36,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "240 KB",
+    "tags": [
+      "outreach",
+      "cold email",
+      "sales",
+      "agent skill"
+    ],
+    "keywords": [
+      "cold email agent skill",
+      "sales outreach ai skill",
+      "email sequence generator skill",
+      "claude code outreach plugin"
+    ],
+    "description": "A cold-email specialist living inside your agent. It researches prospects, writes sequences with spacing logic, compares subject-line options, and drafts polite follow-ups that respect reply signals.",
+    "features": [
+      "Prospect research brief from a single LinkedIn or company URL",
+      "3-touch sequence generator with timing logic",
+      "Subject-line A/B pack with predicted-open reasoning",
+      "Reply-aware follow-up drafts (detects positive signals)",
+      "Spam-trigger scanner on every draft"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Sequence templates (6 industries)",
+      "Spam-trigger reference list",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it send emails?",
+        "a": "No — it drafts. You send through your provider, keeping deliverability in your control."
+      },
+      {
+        "q": "Is it GDPR-friendly?",
+        "a": "Drafts include opt-out lines and legitimate-interest notes; the checklist covers EU/UK/BR/ID bases."
+      },
+      {
+        "q": "How long are the sequences?",
+        "a": "Three touches by default, with an optional fourth for enterprise plays."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "mail"
+  },
+  {
+    "id": "sk-007",
+    "slug": "localization-ninja-skill",
+    "name": "Localization Ninja Skill",
+    "tagline": "Multilingual adaptation with cultural IQ",
+    "category": "agent-skills",
+    "price": 41,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "275 KB",
+    "tags": [
+      "i18n",
+      "localization",
+      "translation",
+      "l10n",
+      "agent skill"
+    ],
+    "keywords": [
+      "localization agent skill",
+      "translation ai skill",
+      "i18n automation skill",
+      "multilingual content skill"
+    ],
+    "description": "Localization that goes beyond translation: the skill adapts idioms, currencies, date formats, imagery cues, and compliance language per market. Ships with locale packs for EN, ID, PT-BR, ES, FR, DE, JA, and ZH.",
+    "features": [
+      "8 locale packs with idiom and register guidance",
+      "Cultural adaptation notes per string (not just words)",
+      "Format localization: dates, numbers, currencies, units",
+      "Legal copy adapters for GDPR, LGPD, and PDP Law",
+      "Eval suite with 12 mistranslation traps"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "8 locale packs",
+      "Legal copy adapters",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it handle RTL languages?",
+        "a": "The core handles text; for RTL layout it emits CSS logical-property guidance for your agent to apply."
+      },
+      {
+        "q": "Can it localize my codebase strings?",
+        "a": "Yes — point it at your i18n JSON/PO files and it fills target locales while preserving keys."
+      },
+      {
+        "q": "Quality without native speakers?",
+        "a": "It's a first-pass accelerator, not a replacement. The eval suite flags high-risk strings for human review."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "globe"
+  },
+  {
+    "id": "sk-008",
+    "slug": "test-author-agent",
+    "name": "Test Author Agent",
+    "tagline": "Unit and e2e tests your agent writes with you",
+    "category": "agent-skills",
+    "price": 45,
+    "formats": [
+      "Skill folder",
+      "Markdown"
+    ],
+    "fileSize": "295 KB",
+    "tags": [
+      "testing",
+      "tdd",
+      "jest",
+      "playwright",
+      "agent skill"
+    ],
+    "keywords": [
+      "test generation ai skill",
+      "unit test agent skill",
+      "tdd claude code skill",
+      "playwright test skill"
+    ],
+    "description": "A TDD partner for your agent: analyzes functions, writes unit tests with edge-case hunting, generates Playwright e2e flows, and measures coverage deltas — then refactors tests for readability.",
+    "features": [
+      "Edge-case hunter: boundary, null, race, and idempotency tests",
+      "Playwright e2e flow generator from user stories",
+      "Coverage delta report after every run",
+      "Test readability refactor pass (AAA structure)",
+      "Eval suite with 15 buggy fixtures"
+    ],
+    "includes": [
+      "SKILL.md manifest + reference docs",
+      "Edge-case taxonomy reference",
+      "Playwright starter templates",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which test frameworks?",
+        "a": "Jest/Vitest, pytest, Go testing, RSpec, and Playwright — the skill detects your stack from config files."
+      },
+      {
+        "q": "Does it run the tests?",
+        "a": "Yes, if your agent has shell access; otherwise it hands you the files."
+      },
+      {
+        "q": "Good for legacy code?",
+        "a": "Excellent. It writes characterization tests first to lock current behavior before refactors."
+      }
+    ],
+    "accent": "#06b6d4",
+    "mock": "terminal"
+  }
+]

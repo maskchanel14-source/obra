@@ -1,0 +1,391 @@
+[
+  {
+    "id": "au-001",
+    "slug": "lead-gen-autopilot",
+    "name": "Lead Gen Autopilot",
+    "tagline": "n8n workflow that turns forms into meetings",
+    "category": "automation-scripts",
+    "price": 49,
+    "formats": [
+      "n8n JSON",
+      "Docs"
+    ],
+    "fileSize": "1.8 MB",
+    "tags": [
+      "n8n",
+      "automation",
+      "lead gen",
+      "crm",
+      "workflow"
+    ],
+    "keywords": [
+      "n8n lead generation workflow",
+      "lead routing automation",
+      "form to crm automation",
+      "n8n templates 2026"
+    ],
+    "description": "A complete lead-gen autopilot: form capture → enrichment → scoring → routing → personalized follow-up. Importable n8n JSON with HubSpot, Salesforce, and Sheets branches.",
+    "features": [
+      "Form capture from 6 providers with webhooks",
+      "Enrichment via clearbit-style APIs",
+      "Lead scoring with configurable rules",
+      "Round-robin routing to reps or CRMs",
+      "Personalized follow-up sequences"
+    ],
+    "includes": [
+      "n8n workflow JSON (3 variants)",
+      "Setup video (18 min)",
+      "API credential checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Self-hosted n8n compatible?",
+        "a": "Yes — works on self-hosted and n8n Cloud."
+      },
+      {
+        "q": "Which CRMs?",
+        "a": "HubSpot, Salesforce, Pipedrive, plus Google Sheets fallback."
+      },
+      {
+        "q": "Pricing per lead?",
+        "a": "You pay only your API providers' costs; the workflow itself has no per-lead fee."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "flow"
+  },
+  {
+    "id": "au-002",
+    "slug": "inbox-zero-automator",
+    "name": "Inbox Zero Automator",
+    "tagline": "Zapier flows that triage your email",
+    "category": "automation-scripts",
+    "price": 33,
+    "formats": [
+      "Zapier",
+      "Docs"
+    ],
+    "fileSize": "900 KB",
+    "tags": [
+      "zapier",
+      "gmail",
+      "automation",
+      "productivity"
+    ],
+    "keywords": [
+      "zapier email automation",
+      "inbox zero workflow",
+      "gmail triage automation",
+      "email zap templates"
+    ],
+    "description": "Seventeen Zapier flows that triage, snooze, label, and summarize your inbox. Newsletters auto-file, receipts auto-table, and VIPs get instant alerts.",
+    "features": [
+      "17 flows: triage, label, snooze, summarize",
+      "Newsletter auto-file by sender",
+      "Receipt capture to a Sheets ledger",
+      "VIP sender instant alerts",
+      "Weekly inbox digest to Slack"
+    ],
+    "includes": [
+      "Zap templates (17)",
+      "Gmail label taxonomy",
+      "Setup checklist",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Zapier plan required?",
+        "a": "Most flows run on the free tier; two use formatter steps that need a paid plan."
+      },
+      {
+        "q": "Does it read my email content?",
+        "a": "Only the flows you enable; all processing stays inside Zapier's TOS."
+      },
+      {
+        "q": "Outlook compatible?",
+        "a": "Yes — every flow has a Gmail and Outlook branch."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "mail"
+  },
+  {
+    "id": "au-003",
+    "slug": "social-scheduler-stack",
+    "name": "Social Scheduler Stack",
+    "tagline": "Make.com automations for a month of posts",
+    "category": "automation-scripts",
+    "price": 37,
+    "formats": [
+      "Make JSON",
+      "Docs"
+    ],
+    "fileSize": "1.2 MB",
+    "tags": [
+      "make",
+      "social media",
+      "scheduling",
+      "automation"
+    ],
+    "keywords": [
+      "make.com social automation",
+      "social scheduler make template",
+      "content scheduling workflow",
+      "make scenario pack"
+    ],
+    "description": "A Make.com stack that plans, drafts, optimizes, and publishes a month of social content. Includes best-time-to-post logic and a performance feedback loop.",
+    "features": [
+      "Monthly content planner scenario",
+      "Draft generator with brand-voice module",
+      "Best-time-to-post scoring",
+      "Auto-publish to 5 platforms",
+      "Performance feedback loop into next month"
+    ],
+    "includes": [
+      "5 Make scenarios (importable)",
+      "Brand-voice module",
+      "Setup video (15 min)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which platforms?",
+        "a": "X, LinkedIn, Instagram (via content publishing API), Facebook, and Threads."
+      },
+      {
+        "q": "Do I need Make's paid plan?",
+        "a": "Usage depends on your Make plan and scenario volume; check the current operation limits before enabling it."
+      },
+      {
+        "q": "Can I approve before publishing?",
+        "a": "Yes — an approval gate module pauses for your review."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "flow"
+  },
+  {
+    "id": "au-004",
+    "slug": "crm-sync-bridge",
+    "name": "CRM Sync Bridge",
+    "tagline": "Two-way sync between any two CRMs",
+    "category": "automation-scripts",
+    "price": 45,
+    "formats": [
+      "n8n JSON",
+      "Docs"
+    ],
+    "fileSize": "2.1 MB",
+    "tags": [
+      "crm",
+      "sync",
+      "n8n",
+      "integration"
+    ],
+    "keywords": [
+      "crm sync automation",
+      "hubspot salesforce sync",
+      "two way crm sync",
+      "n8n crm bridge"
+    ],
+    "description": "A field-mapping sync engine between any two CRMs: dedupe by email, conflict rules, and change logs. Ships with HubSpot↔Pipedrive and Salesforce↔Sheets presets.",
+    "features": [
+      "Field mapping builder with type coercion",
+      "Email-based deduplication",
+      "Conflict rules (newest wins / source wins)",
+      "Change log to Sheets or Postgres",
+      "Two presets + blank canvas"
+    ],
+    "includes": [
+      "n8n workflows (3 presets)",
+      "Field-mapping workbook",
+      "Conflict rules guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "How fast does it sync?",
+        "a": "Poll-based every 5 minutes; webhook variants sync in seconds for supported CRMs."
+      },
+      {
+        "q": "Custom objects?",
+        "a": "Contacts, companies, and deals are mapped out of the box; custom objects take one config file."
+      },
+      {
+        "q": "What if a sync loop starts?",
+        "a": "Loop-breaker logic stamps records and halts echoing."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "flow"
+  },
+  {
+    "id": "au-005",
+    "slug": "analytics-reporter-bot",
+    "name": "Analytics Reporter Bot",
+    "tagline": "Scheduled reports without the spreadsheet gymnastics",
+    "category": "automation-scripts",
+    "price": 29,
+    "formats": [
+      "n8n JSON",
+      "Zapier",
+      "Docs"
+    ],
+    "fileSize": "1.1 MB",
+    "tags": [
+      "analytics",
+      "reporting",
+      "automation",
+      "slack"
+    ],
+    "keywords": [
+      "analytics reporting automation",
+      "weekly report bot",
+      "ga4 report automation",
+      "slack analytics bot"
+    ],
+    "description": "A reporting bot that pulls from GA4, Stripe, and Postgres, then delivers styled weekly digests to Slack or email. Includes anomaly callouts that flag metric swings.",
+    "features": [
+      "GA4, Stripe, and Postgres connectors",
+      "Styled weekly digest (HTML email + Slack)",
+      "Anomaly callouts with week-over-week deltas",
+      "Custom metric definitions in a spreadsheet",
+      "PDF attachment mode for stakeholders"
+    ],
+    "includes": [
+      "Workflows for n8n + Zapier",
+      "Metric definition sheet",
+      "Digest design templates",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Can it report on our warehouse?",
+        "a": "Yes — the Postgres branch covers BigQuery via its PG interface or any JDBC source."
+      },
+      {
+        "q": "How many metrics per digest?",
+        "a": "Up to 12 per report in the styled layout; more in plain mode."
+      },
+      {
+        "q": "Schedule flexibility?",
+        "a": "Cron-scheduled: daily, weekly, or month-end close."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "chart"
+  },
+  {
+    "id": "au-006",
+    "slug": "invoice-flow-automator",
+    "name": "Invoice Flow Automator",
+    "tagline": "Quotes to cash, on autopilot",
+    "category": "automation-scripts",
+    "price": 31,
+    "formats": [
+      "n8n JSON",
+      "Docs"
+    ],
+    "fileSize": "980 KB",
+    "tags": [
+      "invoicing",
+      "finance",
+      "automation",
+      "stripe"
+    ],
+    "keywords": [
+      "invoice automation workflow",
+      "quote to cash automation",
+      "n8n invoicing",
+      "payment reminder automation"
+    ],
+    "description": "The full quote-to-cash loop: quote generation, e-signature capture, invoice creation, polite dunning emails, and a paid-unpaid dashboard.",
+    "features": [
+      "Quote → invoice conversion flow",
+      "E-signature capture via any PDF tool",
+      "Polite dunning sequence (3 touches)",
+      "Paid/unpaid dashboard to Sheets",
+      "Stripe payment link generation"
+    ],
+    "includes": [
+      "n8n workflows (4 stages)",
+      "Email copy pack (polite tone)",
+      "Dashboard template",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it handle VAT?",
+        "a": "Tax fields are configurable per line item; compliance logic stays yours."
+      },
+      {
+        "q": "Which invoice tools?",
+        "a": "Stripe Billing, Stripe Invoicing, and CSV for your accounting tool."
+      },
+      {
+        "q": "Is dunning aggressive?",
+        "a": "No — the copy pack is deliberately gentle; three friendly touches."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "doc"
+  },
+  {
+    "id": "au-007",
+    "slug": "slack-ops-commander",
+    "name": "Slack Ops Commander",
+    "tagline": "Slack workflows for on-call and standups",
+    "category": "automation-scripts",
+    "price": 41,
+    "formats": [
+      "Slack",
+      "n8n JSON",
+      "Docs"
+    ],
+    "fileSize": "1.6 MB",
+    "tags": [
+      "slack",
+      "ops",
+      "automation",
+      "on-call",
+      "standup"
+    ],
+    "keywords": [
+      "slack automation pack",
+      "on call slack workflow",
+      "standup bot automation",
+      "slack ops template"
+    ],
+    "description": "Ten Slack-native workflows: standup prompts, on-call rotation, incident threads, and a kudos system — all without a paid bot platform.",
+    "features": [
+      "Standup prompt with threaded replies",
+      "On-call rotation with handoff DM",
+      "Incident thread with timeline capture",
+      "Kudos system with monthly leaderboard",
+      "Release-notes poster from git tags"
+    ],
+    "includes": [
+      "10 Slack workflows",
+      "n8n glue for external triggers",
+      "Copy pack for prompts",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Needs a paid Slack plan?",
+        "a": "Workflows use native Slack features; most need Pro for workflows. Free-plan variants included."
+      },
+      {
+        "q": "Works with Slack Connect?",
+        "a": "Internal channels fully; Connect channels for standups only."
+      },
+      {
+        "q": "Custom triggers?",
+        "a": "The n8n glue layer accepts any webhook as a trigger."
+      }
+    ],
+    "accent": "#f97316",
+    "mock": "flow"
+  }
+]

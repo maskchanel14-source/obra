@@ -1,0 +1,442 @@
+[
+  {
+    "id": "nt-001",
+    "slug": "founder-os",
+    "name": "Founder OS",
+    "tagline": "The complete operating system for startup founders",
+    "category": "notion-templates",
+    "price": 59,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "2.4 MB",
+    "tags": [
+      "notion",
+      "startup",
+      "okr",
+      "roadmap",
+      "dashboard"
+    ],
+    "keywords": [
+      "notion template for founders",
+      "startup os notion",
+      "okr dashboard notion template",
+      "founder workspace notion"
+    ],
+    "description": "Everything a founder needs in one workspace: OKR tracker, runway calculator, roadmap, meeting notes, and a weekly review dashboard that surfaces what's slipping. Designed to scale from solo use to small teams, with a setup prompt to adapt it to your stage.",
+    "features": [
+      "OKR tracker with cascading objectives and weekly check-ins",
+      "Runway calculator wired to a simple burn table",
+      "Roadmap board with quarter view and dependency flags",
+      "Weekly review dashboard: risks, wins, and next bets",
+      "Investor update generator (one-click draft)"
+    ],
+    "includes": [
+      "Full Founder OS workspace (duplicate link)",
+      "Setup video (22 min) and onboarding checklist",
+      "Investor update template pack",
+      "Lifetime updates and a founder community invite"
+    ],
+    "faqs": [
+      {
+        "q": "Is it for solo founders too?",
+        "a": "Yes — the workspace scales from solo to 40-person teams. Permissions guidance is included."
+      },
+      {
+        "q": "Does it sync with Google Calendar?",
+        "a": "Notion's native calendar sync covers milestones; the setup video walks you through it."
+      },
+      {
+        "q": "Can I resell it?",
+        "a": "No — the license covers your own use. Team licenses are available for agencies."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-002",
+    "slug": "content-calendar-pro",
+    "name": "Content Calendar Pro",
+    "tagline": "Editorial planning that never drops a ball",
+    "category": "notion-templates",
+    "price": 34,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.8 MB",
+    "tags": [
+      "notion",
+      "content",
+      "editorial",
+      "calendar",
+      "social"
+    ],
+    "keywords": [
+      "notion content calendar template",
+      "editorial calendar notion",
+      "social media planner notion",
+      "content pipeline template"
+    ],
+    "description": "A full editorial system: idea inbox with scoring, a pipeline board from brief to publish, a calendar view that merges blog and social, and a performance log that feeds your next planning session.",
+    "features": [
+      "Idea inbox with impact/effort scoring",
+      "Pipeline board: brief → draft → edit → schedule → live",
+      "Unified calendar view for blog + social + newsletter",
+      "Performance log with UTM field and retro prompts",
+      "Repurposing matrix: one piece, five channels"
+    ],
+    "includes": [
+      "Content Calendar Pro workspace",
+      "Brief template pack (8 formats)",
+      "Setup video (14 min)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it work with Notion's new calendar?",
+        "a": "Yes — it uses native date properties so everything renders in Notion Calendar too."
+      },
+      {
+        "q": "Can my team collaborate in it?",
+        "a": "Of course. Roles and status permissions are preconfigured for writers, editors, and approvers."
+      },
+      {
+        "q": "Is there a free version?",
+        "a": "A mini version ships free in our guides; Pro adds scoring, pipelines, and the retro log."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-003",
+    "slug": "personal-knowledge-vault",
+    "name": "Personal Knowledge Vault",
+    "tagline": "A second brain with atomic notes and smart links",
+    "category": "notion-templates",
+    "price": 29,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.5 MB",
+    "tags": [
+      "notion",
+      "pkm",
+      "second brain",
+      "notes",
+      "zettelkasten"
+    ],
+    "keywords": [
+      "notion second brain template",
+      "pkm notion template",
+      "zettelkasten notion",
+      "personal knowledge management template"
+    ],
+    "description": "A PKM system built on atomic notes, bidirectional links, and a weekly synthesis ritual. Capture anything, connect it deliberately, and surface the threads that become essays, products, and decisions.",
+    "features": [
+      "Atomic note structure with progressive summarization",
+      "Smart link suggestions via a MOC (map of content) index",
+      "Weekly synthesis ritual template",
+      "Reading queue with highlight capture",
+      "Search-first dashboard: 'what do I know about X?'"
+    ],
+    "includes": [
+      "Knowledge Vault workspace",
+      "Weekly synthesis ritual guide",
+      "MOC starter maps (12 domains)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "I'm a PARA fan — does it fit?",
+        "a": "The vault is method-agnostic; a PARA adaptation layer is included in the docs."
+      },
+      {
+        "q": "Does it import from Readwise?",
+        "a": "Yes — the reading queue is shaped for Readwise sync via Notion's API."
+      },
+      {
+        "q": "Mobile friendly?",
+        "a": "Capture views are optimized for Notion mobile; quick-capture templates included."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-004",
+    "slug": "agency-command-center",
+    "name": "Agency Command Center",
+    "tagline": "Clients, projects, and profit in one dashboard",
+    "category": "notion-templates",
+    "price": 69,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "2.9 MB",
+    "tags": [
+      "notion",
+      "agency",
+      "project management",
+      "crm",
+      "retainer"
+    ],
+    "keywords": [
+      "notion template for agencies",
+      "agency crm notion",
+      "client portal notion template",
+      "retainer tracking notion"
+    ],
+    "description": "Run your agency from one command center: CRM with deal stages, project boards with capacity heatmaps, retainer profitability tracker, and a client portal view you can share without exposing your internals.",
+    "features": [
+      "CRM with 6-stage pipeline and automated follow-up dates",
+      "Capacity heatmap: who's overallocated this sprint",
+      "Retainer profitability tracker (revenue vs hours)",
+      "Shareable client portal view",
+      "Invoice and contract status dashboards"
+    ],
+    "includes": [
+      "Command Center workspace",
+      "Client portal setup guide",
+      "Onboarding checklist pack",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "How many seats does the license cover?",
+        "a": "Extended license = your whole agency, unlimited seats."
+      },
+      {
+        "q": "Does it replace ClickUp?",
+        "a": "For small-to-mid agencies, often yes — especially if you already live in Notion."
+      },
+      {
+        "q": "Is training included?",
+        "a": "A 31-minute setup video plus a migration checklist for moving existing clients in."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-005",
+    "slug": "habit-forge",
+    "name": "Habit Forge",
+    "tagline": "A habit system that bends but never breaks",
+    "category": "notion-templates",
+    "price": 19,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.1 MB",
+    "tags": [
+      "notion",
+      "habits",
+      "productivity",
+      "tracking",
+      "wellness"
+    ],
+    "keywords": [
+      "habit tracker notion template",
+      "notion habit system",
+      "routine builder template",
+      "streak tracker notion"
+    ],
+    "description": "Habit Forge pairs tiny habits with honest tracking: streak heatmaps, friction logs, and a weekly reflection that asks why you slipped — not just that you did. Designed by a behavior-design practitioner.",
+    "features": [
+      "Streak heatmaps with 7/30/90-day views",
+      "Friction log for spotting habit killers",
+      "Habit stacking builder (anchor → routine → reward)",
+      "Weekly reflection with auto-pulled data",
+      "Minimum-viable-habit mode for rough weeks"
+    ],
+    "includes": [
+      "Habit Forge workspace",
+      "Behavior-design primer (PDF)",
+      "Habit recipe library (30 starters)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it send reminders?",
+        "a": "Notion doesn't push reminders natively; the guide shows how to wire phone reminders via Notion's API or shortcuts."
+      },
+      {
+        "q": "Is it free to try?",
+        "a": "A 14-day mini version is in our free guides. Forge is the full system."
+      },
+      {
+        "q": "Can I track team habits?",
+        "a": "The personal license is solo; the Extended adds a team view."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-006",
+    "slug": "product-launch-runway",
+    "name": "Product Launch Runway",
+    "tagline": "A 90-day launch checklist that actually ships",
+    "category": "notion-templates",
+    "price": 37,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.9 MB",
+    "tags": [
+      "notion",
+      "launch",
+      "product",
+      "checklist",
+      "gtd"
+    ],
+    "keywords": [
+      "product launch checklist notion",
+      "launch plan template notion",
+      "go to market notion template",
+      "ship product checklist"
+    ],
+    "description": "A 90-day launch runway with weekly gates: positioning, waitlist, beta, pricing, assets, and launch-day choreography. Each gate has a go/no-go checklist so nothing ships half-baked.",
+    "features": [
+      "90-day timeline with weekly gates and owners",
+      "Positioning canvas with competitor wedge analysis",
+      "Waitlist and beta program tracker",
+      "Launch-day runbook with hour-by-hour checklist",
+      "Post-launch retro template"
+    ],
+    "includes": [
+      "Launch Runway workspace",
+      "Positioning canvas pack",
+      "Launch-day runbook",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it fit agile teams?",
+        "a": "Yes — gates map to sprints; the guide shows both two-week and weekly cadences."
+      },
+      {
+        "q": "Solo or team?",
+        "a": "Both. The owner column supports multiple assignees with role tags."
+      },
+      {
+        "q": "Works for SaaS and digital products?",
+        "a": "Built for both — the asset checklist covers pages, docs, and in-product flows."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-007",
+    "slug": "study-sprint-system",
+    "name": "Study Sprint System",
+    "tagline": "Exam prep with spaced repetition built in",
+    "category": "notion-templates",
+    "price": 22,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.3 MB",
+    "tags": [
+      "notion",
+      "study",
+      "students",
+      "spaced repetition",
+      "exams"
+    ],
+    "keywords": [
+      "notion study template",
+      "exam prep notion template",
+      "spaced repetition notion",
+      "student planner template"
+    ],
+    "description": "A study system for serious students: sprint planning, active-recall card decks, spaced-repetition scheduling, and a progress dashboard that predicts your readiness for exam day.",
+    "features": [
+      "Sprint planner with pomodoro log",
+      "Active-recall card deck with ease scoring",
+      "Spaced-repetition scheduler (SM-2-lite)",
+      "Readiness forecast for exam dates",
+      "Subject weakness radar chart"
+    ],
+    "includes": [
+      "Study Sprint workspace",
+      "Card deck starter pack",
+      "Exam countdown template",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it replace Anki?",
+        "a": "It's a lighter, Notion-native option. Heavy card users should stick with Anki; this is for planners."
+      },
+      {
+        "q": "Good for professional certs?",
+        "a": "Very — the readiness forecast is built for fixed-date exams like AWS, PMP, and bar prep."
+      },
+      {
+        "q": "Can teachers use it for classes?",
+        "a": "The Extended License covers classroom use with up to 50 students."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  },
+  {
+    "id": "nt-008",
+    "slug": "finance-navigator",
+    "name": "Finance Navigator",
+    "tagline": "Budgeting dashboard with zero spreadsheets tears",
+    "category": "notion-templates",
+    "price": 31,
+    "formats": [
+      "Notion"
+    ],
+    "fileSize": "1.4 MB",
+    "tags": [
+      "notion",
+      "finance",
+      "budget",
+      "tracking",
+      "money"
+    ],
+    "keywords": [
+      "notion budget template",
+      "personal finance dashboard notion",
+      "expense tracker notion",
+      "money management template"
+    ],
+    "description": "A calm budgeting dashboard: accounts, envelopes, subscriptions audit, and a monthly review that takes 10 minutes. Charts show where money actually goes — not where you wish it did.",
+    "features": [
+      "Envelope budgeting with rollover logic",
+      "Subscription audit with cancel-one-tap list",
+      "Multi-currency support with manual rates",
+      "Monthly review ritual (10 minutes)",
+      "Savings goals with progress rings"
+    ],
+    "includes": [
+      "Finance Navigator workspace",
+      "Subscription audit checklist",
+      "Monthly review ritual guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Does it sync with my bank?",
+        "a": "No — Notion has no bank links. Manual entry takes the 10-minute monthly ritual; CSV import helpers are included."
+      },
+      {
+        "q": "Shared with a partner?",
+        "a": "The Extended License adds a household view with per-person envelopes."
+      },
+      {
+        "q": "Is it an investment tracker?",
+        "a": "A simple holdings table is included, but it's not a portfolio tool."
+      }
+    ],
+    "accent": "#f59e0b",
+    "mock": "notion"
+  }
+]

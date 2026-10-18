@@ -1,0 +1,388 @@
+[
+  {
+    "id": "at-001",
+    "slug": "stripe-integration-toolkit",
+    "name": "Stripe Integration Toolkit",
+    "tagline": "Payments, webhooks, and billing pages",
+    "category": "api-toolkits",
+    "price": 59,
+    "formats": [
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "5 MB",
+    "tags": [
+      "stripe",
+      "payments",
+      "sdk",
+      "typescript"
+    ],
+    "keywords": [
+      "stripe integration kit",
+      "stripe checkout boilerplate",
+      "payment webhook handler",
+      "stripe typescript sdk"
+    ],
+    "description": "Everything between your app and Stripe: Checkout sessions, webhook handlers with idempotency, billing portal links, and test-mode fixtures.",
+    "features": [
+      "Checkout and Payment Intent flows",
+      "Idempotent webhook handlers",
+      "Billing portal and customer management",
+      "Test-mode fixture suite",
+      "Type-safe SDK wrappers"
+    ],
+    "includes": [
+      "Source + tests",
+      "Webhook signature verifier",
+      "Test fixture suite",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Covers subscriptions?",
+        "a": "Yes — create, upgrade, cancel, and proration paths."
+      },
+      {
+        "q": "Which SDK?",
+        "a": "Official stripe-node with typed wrappers."
+      },
+      {
+        "q": "PCI scope?",
+        "a": "Checkout keeps you in the simplest PCI SAQ."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-002",
+    "slug": "openai-api-wrapper-kit",
+    "name": "OpenAI API Wrapper Kit",
+    "tagline": "Typed clients, retries, and cost control",
+    "category": "api-toolkits",
+    "price": 47,
+    "formats": [
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "3 MB",
+    "tags": [
+      "openai",
+      "llm",
+      "sdk",
+      "typescript"
+    ],
+    "keywords": [
+      "openai api wrapper",
+      "llm client kit",
+      "ai api boilerplate",
+      "openai typescript sdk"
+    ],
+    "description": "A production wrapper around the OpenAI API: typed responses, exponential backoff, token budgeting, and a model-failover chain.",
+    "features": [
+      "Typed client for chat, embeddings, audio",
+      "Exponential backoff with jitter",
+      "Token budget enforcer",
+      "Model failover chain (GPT-5 → Claude → Gemini)",
+      "Structured output validators"
+    ],
+    "includes": [
+      "Source + tests",
+      "Failover config guide",
+      "Prompt caching recipes",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Other providers?",
+        "a": "The failover chain includes Anthropic and Google adapters."
+      },
+      {
+        "q": "Streaming support?",
+        "a": "Full SSE streaming with token accounting."
+      },
+      {
+        "q": "Cost visibility?",
+        "a": "Per-request cost logging with monthly rollups."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-003",
+    "slug": "github-actions-library",
+    "name": "GitHub Actions Library",
+    "tagline": "60 reusable workflows, zero copy-paste",
+    "category": "api-toolkits",
+    "price": 39,
+    "formats": [
+      "YAML",
+      "Docs"
+    ],
+    "fileSize": "2 MB",
+    "tags": [
+      "github actions",
+      "ci",
+      "devops",
+      "yaml"
+    ],
+    "keywords": [
+      "github actions templates",
+      "ci cd workflow library",
+      "github actions reusable workflows",
+      "devops automation pack"
+    ],
+    "description": "Sixty reusable workflows: build matrices, release automation, dependency review, preview environments, and changelog bots.",
+    "features": [
+      "60 workflows across 12 categories",
+      "Reusable workflow patterns",
+      "Preview environments for PRs",
+      "Changelog and release automation",
+      "Dependency review gates"
+    ],
+    "includes": [
+      "Workflow YAML library",
+      "Composite actions",
+      "Setup guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Works with private repos?",
+        "a": "Yes — all workflows are repo-local."
+      },
+      {
+        "q": "Minutes-friendly?",
+        "a": "Caching and matrix trimming can reduce build time; measure the impact in your own workflows."
+      },
+      {
+        "q": "Enterprise?",
+        "a": "The Extended License covers org-wide rollout."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-004",
+    "slug": "supabase-starter-kit",
+    "name": "Supabase Starter Kit",
+    "tagline": "Auth, RLS, and realtime — pre-wired",
+    "category": "api-toolkits",
+    "price": 55,
+    "formats": [
+      "SQL",
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "4 MB",
+    "tags": [
+      "supabase",
+      "postgres",
+      "auth",
+      "rls"
+    ],
+    "keywords": [
+      "supabase starter kit",
+      "supabase auth boilerplate",
+      "postgres rls templates",
+      "supabase realtime example"
+    ],
+    "description": "A Supabase foundation: auth flows, row-level security policies, realtime channels, and a typed client layer with migrations.",
+    "features": [
+      "Email, magic-link, and OAuth auth",
+      "RLS policy library (20 patterns)",
+      "Realtime presence and broadcast",
+      "Typed client generation",
+      "Migration tooling setup"
+    ],
+    "includes": [
+      "SQL migrations",
+      "Client source (TS)",
+      "RLS pattern library",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Self-hostable?",
+        "a": "Yes — Docker Compose config included."
+      },
+      {
+        "q": "Edge Functions?",
+        "a": "Two example functions ship (webhook, cron)."
+      },
+      {
+        "q": "Storage recipes?",
+        "a": "Avatar upload with resizing is included."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-005",
+    "slug": "webhooks-builder-kit",
+    "name": "Webhooks Builder Kit",
+    "tagline": "Reliable delivery with retries and logs",
+    "category": "api-toolkits",
+    "price": 43,
+    "formats": [
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "2.5 MB",
+    "tags": [
+      "webhooks",
+      "api",
+      "typescript",
+      "queue"
+    ],
+    "keywords": [
+      "webhook boilerplate",
+      "webhook delivery kit",
+      "webhook retries library",
+      "api integration kit"
+    ],
+    "description": "A webhook engine: signed payloads, exponential-backoff retries, a dead-letter queue, and a delivery log dashboard.",
+    "features": [
+      "HMAC-signed payloads",
+      "Exponential-backoff retry queue",
+      "Dead-letter queue with alerts",
+      "Delivery log dashboard",
+      "Endpoint health checker"
+    ],
+    "includes": [
+      "Source + tests",
+      "Dashboard UI",
+      "Runbook (PDF)",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Queue tech?",
+        "a": "BullMQ with Redis; a Postgres fallback adapter ships."
+      },
+      {
+        "q": "Signature standards?",
+        "a": "HMAC-SHA256 with timestamp tolerance — Stripe-style."
+      },
+      {
+        "q": "Scale?",
+        "a": "Capacity depends on the queue backend and hosting plan; benchmark it in your own environment."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-006",
+    "slug": "auth-flow-toolkit",
+    "name": "Auth Flow Toolkit",
+    "tagline": "Sessions, MFA, and magic links",
+    "category": "api-toolkits",
+    "price": 61,
+    "formats": [
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "3.4 MB",
+    "tags": [
+      "auth",
+      "security",
+      "sessions",
+      "mfa"
+    ],
+    "keywords": [
+      "auth boilerplate",
+      "mfa implementation kit",
+      "magic link auth",
+      "session management kit"
+    ],
+    "description": "A security-first auth toolkit: rotating refresh tokens, TOTP MFA, magic links with rate limits, and a session inspector.",
+    "features": [
+      "Rotating refresh tokens",
+      "TOTP MFA with recovery codes",
+      "Magic links with rate limits",
+      "Session inspector UI",
+      "Account takeover detection"
+    ],
+    "includes": [
+      "Source + security tests",
+      "Session inspector",
+      "Threat model doc",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Passwordless only?",
+        "a": "Email+password, OAuth, and passwordless all included."
+      },
+      {
+        "q": "WebAuthn?",
+        "a": "Passkey support is in the toolkit with a full flow."
+      },
+      {
+        "q": "Audit-ready?",
+        "a": "The threat model doc maps to OWASP ASVS."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  },
+  {
+    "id": "at-007",
+    "slug": "map-geo-services-kit",
+    "name": "Map & Geo Services Kit",
+    "tagline": "Geocoding, routing, and maps UI",
+    "category": "api-toolkits",
+    "price": 36,
+    "formats": [
+      "Source code",
+      "Docs"
+    ],
+    "fileSize": "4.5 MB",
+    "tags": [
+      "maps",
+      "geo",
+      "api",
+      "typescript"
+    ],
+    "keywords": [
+      "maps api kit",
+      "geocoding wrapper",
+      "routing api boilerplate",
+      "geo services toolkit"
+    ],
+    "description": "A geo toolkit: geocoding with fallbacks, distance matrix, isochrone queries, and a map UI with clustering and heatmaps.",
+    "features": [
+      "Geocoding with provider fallbacks",
+      "Distance matrix and routing",
+      "Isochrone query helpers",
+      "Map UI with clustering",
+      "Heatmap layer component"
+    ],
+    "includes": [
+      "Source + tests",
+      "Map UI components",
+      "Provider comparison guide",
+      "Lifetime updates"
+    ],
+    "faqs": [
+      {
+        "q": "Which providers?",
+        "a": "Mapbox, Google, and open-source OSM adapters."
+      },
+      {
+        "q": "Server-side geocoding?",
+        "a": "Yes — keeps API keys hidden and cacheable."
+      },
+      {
+        "q": "Offline support?",
+        "a": "Tile caching patterns are documented."
+      }
+    ],
+    "accent": "#84cc16",
+    "mock": "code"
+  }
+]
