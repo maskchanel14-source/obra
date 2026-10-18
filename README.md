@@ -364,6 +364,9 @@ Superpowers is built by [Jesse Vincent](https://blog.fsck.com) and the rest of t
 - **writing-skills** - Create new skills following best practices (includes testing methodology)
 - **using-superpowers** - Introduction to the skills system
 
+**Research (fork-local, vendored third-party)**
+- **agent-reach** - Internet capability router: search and read Twitter/X, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, V2EX, Xueqiu, RSS and more from [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (MIT). Needs the external `agent-reach` CLI at runtime — see `skills/agent-reach/PROVENANCE.md`. Not an upstream Superpowers skill; do not propose it upstream.
+
 ## Philosophy
 
 - **Test-Driven Development** - Write tests first, always

@@ -11,6 +11,10 @@
   "capabilities": {
     "skills": [
       {
+        "id": "agent-reach",
+        "path": "skills/agent-reach/SKILL.md"
+      },
+      {
         "id": "brainstorming",
         "path": "skills/brainstorming/SKILL.md"
       },
